@@ -1,0 +1,101 @@
+Company: NVE CORP /NEW/ (CIK 724910)
+Accession: 0001376474-26-000663
+Results released: 2026-10-21
+Press release: https://www.sec.gov/Archives/edgar/data/724910/000137647426000663/nve_ex99z1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/724910/000137647426000663/0001376474-26-000663-index.htm
+Saved: 2026-10-25T21:52:34+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 nve_ex99z1.htm PRESS RELEASE
+NVE Corporation Reports Second Quarter Results and Announces Quarterly Dividend
+EDEN PRAIRIE, Minn.—October 21, 2026—NVE Corporation (Nasdaq: NVEC) announced financial results today for the quarter ended September 30, 2026.
+Total revenue for the second quarter of fiscal 2027 decreased 8% to $5.83 million from $6.35 million for the prior-year quarter. The decrease was due to a 9% decrease in product sales, partially offset by a 25% increase in contract research and development revenue. Net income for the second quarter of fiscal 2027 decreased 4% to $3.17 million, or $0.65 per diluted share, compared to $3.31 million, or $0.68 per share, for the prior-year quarter.
+For the first six months of fiscal 2027, total revenue increased 36% to $16.9 million from $12.5 million for the first six months of the prior year. The increase was due to a 35% increase in product sales and a 38% increase in contract research and development revenue. Net income increased 39% to $9.57 million, or $1.97 per diluted share, from $6.89 million, or $1.42 per share, for the first half of fiscal 2026.
+The company also announced a quarterly cash dividend to shareholders of $1.00 per share of common stock, payable November 30, 2026 to shareholders of record as of November 2, 2026.
+“We’re pleased to report a 36% increase in revenue for the six months ended September 30, 2026, compared to the prior-year period, despite an 8% decrease in revenue for the second quarter of fiscal 2027 compared to the prior-year quarter,” said NVE President and Chief Executive Officer Peter G. Eames, PhD.
+NVE is a leader in the practical commercialization of spintronics, a nanotechnology that relies on electron spin rather than electron charge to acquire, store, and transmit information. The company manufactures high-performance spintronic products including sensors and couplers that are used to acquire and transmit data.
+Statements used in this press release that relate to future plans, events, financial results, or performance are forward-looking statements that are subject to certain risks and uncertainties including, among others, such factors as our reliance on several large customers for a significant percentage of revenue, uncertainties related to the economic environments in the industries we serve, uncertainties related to future sales and revenues, risks and uncertainties related to tariffs, customs, duties, and other trade barriers, as well as the risk factors listed from time to time in our filings with the SEC, including our Annual Report on Form 10-K for the fiscal year ended March 31, 2026.
+###
+Contact: investor@nve.com
+NVE CORPORATION STATEMENTS OF INCOME QUARTERS AND SIX MONTHS ENDED SEPTEMBER 30, 2026 AND 2025 (Unaudited)
+Quarter Ended September 30,
+2026 | 2025
+Revenue
+Product sales | $ | 5,575,282 | $ | 6,138,772
+Contract research and development | 259,420 | 208,220
+Total revenue, net | 5,834,702 | 6,346,992
+Cost of sales | 1,270,805 | 1,378,494
+Gross profit | 4,563,897 | 4,968,498
+Expenses
+Research and development | 727,345 | 873,470
+Selling, general, and administrative | 630,314 | 436,919
+Total expenses | 1,357,659 | 1,310,389
+Income from operations | 3,206,238 | 3,658,109
+Interest income | 474,727 | 484,330
+Other income | - | 3,094
+Income before taxes | 3,680,965 | 4,145,533
+Provision for income taxes | 507,806 | 834,695
+Net income | $ | 3,173,159 | $ | 3,310,838
+Net income per share – basic | $ | 0.66 | $ | 0.68
+Net income per share – diluted | $ | 0.65 | $ | 0.68
+Weighted average shares outstanding
+Basic | 4,842,050 | 4,837,166
+Diluted | 4,850,910 | 4,839,243
+Six Months Ended Sept. 30,
+2026 | 2025
+Revenue
+Product sales | $ | 16,310,017 | $ | 12,047,342
+Contract research and development | 558,742 | 404,294
+Total revenue, net | 16,868,759 | 12,451,636
+Cost of sales | 3,336,850 | 2,561,017
+Gross profit | 13,531,909 | 9,890,619
+Expenses
+Research and development | 1,673,927 | 1,593,701
+Selling, general, and administrative | 1,385,908 | 855,559
+Total expenses | 3,059,835 | 2,449,260
+Income from operations | 10,472,074 | 7,441,359
+Interest income | 924,647 | 982,538
+Other income | - | 3,905
+Income before taxes | 11,396,721 | 8,427,802
+Provision for income taxes | 1,829,371 | 1,541,146
+Net income | $ | 9,567,350 | $ | 6,886,656
+Net income per share – basic | $ | 1.98 | $ | 1.42
+Net income per share – diluted | $ | 1.97 | $ | 1.42
+Weighted average shares outstanding
+Basic | 4,839,621 | 4,837,166
+Diluted | 4,848,187 | 4,839,049
+NVE CORPORATION BALANCE SHEETS SEPTEMBER 30 AND MARCH 31, 2026
+(Unaudited) September 30, 2026 | March 31, 2026
+ASSETS
+Current assets
+Cash and cash equivalents | $ | 3,969,958 | $ | 1,714,040
+Marketable securities, short-term | 19,678,659 | 18,125,060
+Accounts receivable, net of allowance for credit losses of $15,000 | 3,005,928 | 3,408,941
+Inventories, net | 6,860,310 | 7,082,821
+Prepaid expenses and other assets | 1,541,483 | 1,860,415
+Total current assets | 35,056,338 | 32,191,277
+Fixed assets
+Machinery and equipment | 13,925,767 | 13,843,799
+Leasehold improvements | 2,059,853 | 2,059,853
+15,985,620 | 15,903,652
+Less accumulated depreciation and amortization | 12,652,165 | 12,187,643
+Net fixed assets | 3,333,455 | 3,716,009
+Marketable securities, long-term | 20,739,953 | 23,678,452
+Right-of-use asset – operating lease | 732,004 | 793,794
+Total assets | $ | 59,861,750 | $ | 60,379,532
+LIABILITIES AND SHAREHOLDERS’ EQUITY
+Current liabilities
+Accounts payable | $ | 252,399 | $ | 278,599
+Accrued payroll and other | 751,695 | 697,611
+Operating lease | 202,612 | 165,116
+Total current liabilities | 1,206,706 | 1,141,326
+Deferred tax liabilities | 9,990 | 248,284
+Long-term operating lease liability | 668,708 | 740,423
+Total liabilities | 1,885,404 | 2,130,033
+Shareholders’ equity
+Common stock | 48,441 | 48,372
+Additional paid-in capital | 20,175,512 | 19,914,769
+Accumulated other comprehensive loss | (452,080 | ) | (32,010 | )
+Retained earnings | 38,204,473 | 38,318,368
+Total shareholders’ equity | 57,976,346 | 58,249,499
+Total liabilities and shareholders’ equity | $ | 59,861,750 | $ | 60,379,532

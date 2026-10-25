@@ -1,0 +1,677 @@
+Company: OFG BANCORP (CIK 1030469)
+Accession: 0001030469-26-000043
+Results released: 2026-10-21
+Press release: https://www.sec.gov/Archives/edgar/data/1030469/000103046926000043/ofg-20263qexx99.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1030469/000103046926000043/0001030469-26-000043-index.htm
+Saved: 2026-10-25T21:52:34+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99 2 ofg-20263qexx99.htm EX-99
+Exhibit 99
+OFG Bancorp Reports 3Q26 Results
+SAN JUAN, Puerto Rico, October 21, 2026 – OFG Bancorp (NYSE: OFG), the financial holding company for Oriental Bank, today reported results for the third quarter ended September 30, 2026. EPS diluted of $1.33 compared to $1.39 in 2Q26 and $1.16 in 3Q25. Total core revenues of $185.7 million compared to $190.3 million in 2Q26 and $184.0 million in 3Q25.
+CEO Comment
+José Rafael Fernández, Chief Executive Officer, said: “We delivered another strong quarter, with year-over-year increases of 14.7% in EPS and 1.0% in core revenues. Our results reflect continued momentum in commercial loan growth, stable credit quality and core deposit balances, disciplined expense management, and healthy profitability. We also repurchased $13.5 million of common shares, reinforcing our commitment to creating long-term shareholder value.”
+“At the same time, we continue advancing our digital bank with a human touch strategy. Customers are embracing Oriental’s digital tools and value-added services while our Libre+, Elite, and My Biz accounts are attracting new clients and helping our bankers deepen existing relationships.”
+“Puerto Rico’s economy remains stable, supported by a healthy labor market and ongoing expansion by local and mainland businesses.”
+3Q26 Highlights
+Performance Metrics: Net interest margin of 5.23%, return on average assets of 1.86%, return on average tangible common stockholders’ equity of 17.06%, and efficiency ratio of 51.83%.
+Total Interest Income of $195.7 million compared to $197.2 million in 2Q26 and $200.1 million in 3Q25. 3Q26 decreased $1.4 million sequentially, primarily reflecting the absence of $4.1 million from three paid in full commercial loans in 2Q26, partially offset by higher average balances of loans and cash, higher yields in cash and the investment portfolio, and $1.6 million from one additional business day.
+Total Interest Expense of $42.2 million compared to $39.9 million in 2Q26 and $45.4 million in 3Q25. 3Q26 increased $2.3 million sequentially, primarily reflecting higher average balances of deposits at a higher cost and $0.4 million from one additional business day.
+Total Banking & Financial Service Revenues of $32.2 million compared to $33.0 million in 2Q26 and $29.3 million in 3Q25. 3Q26 decreased $0.8 million sequentially, reflecting the absence of $1.1 million in insurance and annuity fees in wealth management in 2Q26 and lower mortgage banking revenues, partially offset by higher banking service revenues.
+Pre-Provision Net Revenues of $89.9 million compared to $87.5 million in 2Q26 and $89.6 million in 3Q25.
+Total Provision for Credit Losses of $18.1 million compared to $13.0 million in 2Q26 and $28.3 million in 3Q25. 3Q26 primarily reflected $17.5 million for increased loan volume and $1.3 million due to seasonal adjustment for auto delinquency, while 2Q26 included $14.7 million for increased loan volume and $1.9 million in commercial loan recoveries.
+1
+Credit Quality: The early and total delinquency rates of 2.65% and 3.91% both increased sequentially from 2Q26 due to seasonal trends, but declined year over year compared to 3Q25. At the same time, the 3Q26 net charge off and nonperforming loan rates of 0.70% and 0.74% both declined compared to both 2Q26 and 3Q25.
+Total Non-Interest Expense of $96.3 million compared to $102.8 million in 2Q26 and $96.5 million in 3Q25. 3Q26 primarily reflected the absence of $5.8 million in business related operational charges in 2Q26.
+Income Tax Expense was $15.2 million compared to $15.7 million in 2Q26 and $9.5 million in 3Q25. 3Q26 reflected an anticipated ETR of 22.53% for the year.
+Loans Held for Investment (EOP) of $8.45 billion compared to $8.30 billion in 2Q26 and $8.12 billion in 3Q25. 3Q26 balances grew $150.9 million or 1.8% sequentially, reflecting increases in Puerto Rico commercial and consumer loans, more than offsetting declines in other categories. Year over year, loans are up 4.1%.
+New Loan Production of $693.8 million compared to $755.0 million in 2Q26 and $623.9 million in 3Q25. 3Q26 production decreased $61.2 million sequentially, reflecting decreases in Puerto Rico commercial, auto, and residential mortgage, partially offset by increases in U.S. commercial and Puerto Rico consumer loans.
+Total Investments (EOP) of $2.72 billion compared to $2.70 billion in 2Q26 and $2.94 billion in 3Q25. 3Q26 primarily reflected purchases of $216.1 million of mortgage-backed securities toward the end of the quarter and $21.1 million of securitizations, partially offset by market value adjustments and MBS principal paydowns.
+Customer Deposits (EOP) of $9.66 billion compared to $9.74 billion in 2Q26 and $9.82 billion in 3Q25. 3Q26 deposits decreased $79.9 million or 0.8% sequentially, reflecting decreases in demand and savings deposits, partially offset by an increase in time deposits.
+Total Borrowings & Brokered Deposits (EOP) of $926.6 million compared to $795.5 million in 2Q26 and $746.4 million in 3Q25. 3Q26 total borrowings and brokered deposits increased $131.1 million sequentially for liquidity management purposes.
+Cash & Cash Equivalents (EOP) of $566.8 million compared to $745.7 million in 2Q26 and $740.3 million in 3Q25. 3Q26 cash decreased $178.9 million sequentially primarily due to the above mentioned MBS purchase and loan growth.
+Capital: CET1 ratio was 14.10% compared to 14.07% in 2Q26 and 14.13% in 3Q25. Tangible Common Equity ratio was 10.34% compared to 10.90% in 2Q26 and 10.55% in 3Q25. Tangible Book Value per share was $29.66 compared to $31.12 in 2Q26 and $28.92 in 3Q25. 3Q26 TBV declined sequentially primarily due to the change in accumulated other comprehensive loss.
+Conference Call, Financial Supplement & Presentation
+A conference call to discuss 3Q26 results, outlook and related matters will be held today at 10:00 AM ET. Phone (800) 579-2543 or (785) 424-1789. Conference ID: OFGQ326. The call can also be accessed live on www.ofgbancorp.com with webcast replay shortly thereafter. OFG’s Financial Supplement, with full financial tables for the quarter ended September 30, 2026, and the 3Q26 Conference Call Presentation, can be found on the Quarterly Results page on OFG’s Investor Relations website at www.ofgbancorp.com.
+2
+Non-GAAP Financial Measures
+In addition to our financial information presented in accordance with GAAP, management uses certain “non-GAAP financial measures” within the meaning of SEC Regulation G, to clarify and enhance understanding of past performance and prospects for the future. Please refer to Tables 8-1 and 8-2 in OFG’s above-mentioned Financial Supplement for a reconciliation of GAAP to non-GAAP measures and calculations.
+Forward Looking Statements
+The information included in this document contains certain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are based on management’s current expectations and involve certain risks and uncertainties that may cause actual results to differ materially from those expressed in the forward-looking statements. Factors that might cause such a difference include but are not limited to (i) general business and economic conditions, including changes in interest rates; (ii) cybersecurity breaches; (iii) hurricanes, earthquakes, pandemics, and other natural disasters; and (iv) competition in the financial services industry. For a discussion of such factors and certain risks and uncertainties to which OFG is subject, please refer to OFG’s annual report on Form 10-K for the year ended December 31, 2025, as well as its other filings with the U.S. Securities and Exchange Commission. Other than to the extent required by applicable law, including the requirements of applicable securities laws, OFG assumes no obligation to update any forward-looking statements to reflect occurrences or unanticipated events or circumstances after the date of such statements.
+About OFG Bancorp
+Now in its 62nd year in business, OFG Bancorp is a diversified financial holding company that operates under U.S., Puerto Rico and U.S. Virgin Islands banking laws and regulations. Its three principal subsidiaries, Oriental Bank, Oriental Financial Services and Oriental Insurance, provide a wide range of retail and commercial banking, lending and wealth management products, services, and technology, primarily in Puerto Rico and U.S. Virgin Islands. Our mission is to make progress possible for our customers, employees, shareholders, and the communities we serve. Visit us at www.ofgbancorp.com.
+Contacts
+Puerto Rico & USVI: Lumarie Vega López (lumarie.vega@orientalbank.com) and Victoria Maldonado Rodríguez (victoria.maldonado@orientalbank.com) at (787) 771-6800
+US: Gary Fishman (gfishman@ofgbancorp.com) and Michael Wichman (michael.wichman@ofgbancorp.com) at (212) 532-3232
+3
+OFG Bancorp
+Financial Supplement
+The information contained in this Financial Supplement is preliminary and based on data available at the time of the earnings presentation, and investors should refer to our September 30, 2026 Quarterly Report on Form 10-Q once it is filed with the Securities and Exchange Commission.
+Table of Contents
+Pages
+OFG Bancorp (Consolidated Financial Information)
+Table 1: | Financial and Statistical Summary - Consolidated | 2
+Table 2: | Consolidated Statements of Operations | 4
+Table 3: | Consolidated Statements of Financial Condition | 6
+Table 4: | Information on Loan Portfolio and Production | 7
+Table 5: | Average Balances, Net Interest Income and Net Interest Margin | 8
+Table 6: | Loan Information and Performance Statistics | 10
+Table 7: | Allowance for Credit Losses | 13
+Table 8: | Reconciliation of GAAP to Non-GAAP Measures and Calculation of Regulatory Capital | 14
+Table 9: | Notes to Financial Summary, Selected Metrics, Loans, and Consolidated Financial Statements (Tables 1-8) | 16
+OFG Bancorp (NYSE: OFG)
+Table 1-1: Financial and Statistical Summary - Consolidated
+2026 | 2026 | 2026 | 2025 | 2025
+(Dollars in thousands, except per share data) (unaudited) | Q3 | Q2 | Q1 | Q4 | Q3
+Statement of Operations
+Net interest income | $ | 153,570 | $ | 157,299 | $ | 153,813 | $ | 152,744 | $ | 154,724
+Non-interest income, net (core) | (1) | 32,178 | 32,984 | 31,988 | 32,627 | 29,256
+Total core revenues | (2) | 185,748 | 190,283 | 185,801 | 185,371 | 183,980
+Non-interest expense | 96,265 | 102,832 | 94,703 | 105,011 | 96,548
+Pre-provision net revenues | (20) | 89,949 | 87,490 | 91,277 | 79,309 | 89,629
+Total provision for credit losses | 18,140 | 13,006 | 22,483 | 31,889 | 28,258
+Net income before income taxes | 71,809 | 74,484 | 68,794 | 47,420 | 61,371
+Income tax expense (benefit) | 15,198 | 15,707 | 14,857 | (8,473) | 9,533
+Net income available to common stockholders | 56,611 | 58,777 | 53,937 | 55,893 | 51,838
+Common Share Statistics
+Earnings per common share - basic | (3) | $ | 1.34 | $ | 1.39 | $ | 1.26 | $ | 1.28 | $ | 1.17
+Earnings per common share - diluted | (4) | $ | 1.33 | $ | 1.39 | $ | 1.26 | $ | 1.27 | $ | 1.16
+Average common shares outstanding | 42,191 | 42,261 | 42,786 | 43,649 | 44,430
+Average common shares outstanding and equivalents | 42,444 | 42,397 | 42,956 | 43,901 | 44,658
+Cash dividends per common share | $ | 0.35 | $ | 0.35 | $ | 0.35 | $ | 0.30 | $ | 0.30
+Book value per common share (period end) | $ | 31.83 | $ | 33.30 | $ | 32.35 | $ | 32.13 | $ | 31.07
+Tangible book value per common share (period end) | (5) | $ | 29.66 | $ | 31.12 | $ | 30.14 | $ | 29.96 | $ | 28.92
+Balance Sheet (Average Balances)
+Loans | (6) | $ | 8,282,656 | $ | 8,245,654 | $ | 8,167,438 | $ | 8,117,032 | $ | 8,098,058
+Interest-earning assets | 11,648,826 | 11,582,521 | 11,633,354 | 11,827,933 | 11,715,599
+Total assets | 12,171,030 | 12,154,691 | 12,138,944 | 12,377,910 | 12,248,544
+Core deposits | 9,720,680 | 9,705,480 | 9,560,640 | 9,930,939 | 9,866,369
+Total deposits | 9,979,899 | 9,921,807 | 9,829,019 | 10,161,728 | 10,086,731
+Interest-bearing deposits | 7,223,019 | 7,172,785 | 7,171,589 | 7,541,276 | 7,498,818
+Borrowings | 581,461 | 579,724 | 660,300 | 555,820 | 548,832
+Stockholders' equity | 1,418,891 | 1,403,137 | 1,406,938 | 1,394,097 | 1,361,055
+Performance Metrics
+Net interest margin | (7) | 5.23 | % | 5.45 | % | 5.36 | % | 5.12 | % | 5.24 | %
+Return on average assets | (8) | 1.86 | % | 1.93 | % | 1.78 | % | 1.81 | % | 1.69 | %
+Return on average tangible common stockholders' equity | (9) | 17.06 | % | 17.94 | % | 16.43 | % | 17.20 | % | 16.39 | %
+Efficiency ratio | (10) | 51.83 | % | 54.04 | % | 50.97 | % | 56.65 | % | 52.48 | %
+Full-time equivalent employees, period end | 2,156 | 2,185 | 2,181 | 2,185 | 2,217
+Credit Quality Metrics
+Allowance for credit losses | $ | 191,829 | $ | 188,255 | $ | 203,956 | $ | 202,341 | $ | 197,782
+Allowance as a % of loans held for investment | 2.27 | % | 2.27 | % | 2.48 | % | 2.47 | % | 2.44 | %
+Net charge-offs | $ | 14,460 | $ | 28,791 | $ | 21,379 | $ | 26,873 | $ | 20,208
+Net charge-off rate | (11) | 0.70 | % | 1.40 | % | 1.05 | % | 1.32 | % | 1.00 | %
+Early delinquency rate (30 - 89 days past due) | 2.65 | % | 2.51 | % | 2.21 | % | 2.80 | % | 2.84 | %
+Total delinquency rate (30 days and over) | 3.91 | % | 3.68 | % | 3.40 | % | 4.18 | % | 4.06 | %
+Capital Ratios (period end) (Non-GAAP) | (12)
+Leverage ratio | 11.44 | % | 11.23 | % | 10.88 | % | 10.71 | % | 10.75 | %
+Common equity Tier 1 capital ratio | 14.10 | % | 14.07 | % | 13.75 | % | 13.97 | % | 14.13 | %
+Tier 1 risk-based capital ratio | 14.10 | % | 14.07 | % | 13.75 | % | 13.97 | % | 14.13 | %
+Total risk-based capital ratio | 15.36 | % | 15.33 | % | 15.01 | % | 15.24 | % | 15.39 | %
+Tangible common equity ("TCE") ratio | 10.34 | % | 10.90 | % | 10.66 | % | 10.47 | % | 10.55 | %
+2
+OFG Bancorp (NYSE: OFG)
+Table 1-2: Financial and Statistical Summary - Consolidated (Continued)
+Nine-month period ended September 30,
+(Dollars in thousands, except per share data) (unaudited) | 2026 | 2025
+Statement of Operations
+Net interest income | $ | 464,682 | $ | 455,723
+Non-interest income, net (core) | (1) | 97,150 | 88,714
+Total core revenues | (2) | 561,832 | 544,437
+Non-interest expense | 293,800 | 284,802
+Pre-provision net revenues | (21) | 268,716 | 262,321
+Total provision for credit losses | 53,629 | 75,624
+Net income before income taxes | 215,087 | 186,697
+Income tax expense | 45,762 | 37,487
+Net income available to common stockholders | 169,325 | 149,210
+Common Share Statistics
+Earnings per common share - basic | (3) | $ | 3.99 | $ | 3.33
+Earnings per common share - diluted | (4) | $ | 3.97 | $ | 3.31
+Average common shares outstanding | 42,410 | 44,857
+Average common shares outstanding and equivalents | 42,620 | 45,056
+Cash dividends per common share | $ | 1.05 | $ | 0.90
+Book value per common share (period end) | $ | 31.83 | $ | 31.07
+Tangible book value per common share (period end) | (5) | $ | 29.66 | $ | 28.92
+Balance Sheet (Average Balances)
+Loans | (6) | $ | 8,232,338 | $ | 7,950,053
+Interest-earning assets | 11,621,623 | 11,446,863
+Total assets | 12,155,006 | 11,957,028
+Core deposits | 9,662,855 | 9,743,039
+Total deposits | 9,910,797 | 9,945,348
+Interest-bearing deposits | 7,189,320 | 7,374,668
+Borrowings | 606,873 | 451,469
+Stockholders' equity | 1,409,699 | 1,323,866
+Performance Metrics
+Net interest margin | (7) | 5.35 | % | 5.32 | %
+Return on average assets | (8) | 1.86 | % | 1.66 | %
+Return on average tangible common stockholders' equity | (9) | 17.14 | % | 16.22 | %
+Efficiency ratio | (10) | 52.29 | % | 52.31 | %
+Full-time equivalent employees, period end | 2,156 | 2,217
+Credit Quality Metrics
+Allowance for credit losses | $ | 191,829 | $ | 197,782
+Allowance as a % of loans held for investment | 2.27 | % | 2.44 | %
+Net charge-offs | $ | 64,630 | $ | 53,362
+Net charge-off rate | (11) | 1.05 | % | 0.89 | %
+Early delinquency rate (30 - 89 days past due) | 2.65 | % | 2.84 | %
+Total delinquency rate (30 days and over) | 3.91 | % | 4.06 | %
+3
+OFG Bancorp (NYSE: OFG)
+Table 2-1: Consolidated Statements of Operations
+Quarter Ended
+(Dollars in thousands) (unaudited) | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Interest income:
+Loans
+Non-PCD loans | $ | 147,994 | $ | 146,862 | $ | 142,211 | $ | 144,385 | $ | 146,665
+PCD loans | 12,412 | 15,553 | 16,343 | 13,826 | 14,669
+Total interest income from loans | 160,406 | 162,415 | 158,554 | 158,211 | 161,334
+Investment securities and cash | 35,338 | 34,735 | 35,572 | 39,011 | 38,811
+Total interest income | 195,744 | 197,150 | 194,126 | 197,222 | 200,145
+Interest expense:
+Deposits
+Core deposits | 33,669 | 31,960 | 31,196 | 36,482 | 37,458
+Brokered deposits | 2,671 | 2,164 | 2,672 | 2,352 | 2,284
+Total deposits | 36,340 | 34,124 | 33,868 | 38,834 | 39,742
+Borrowings | 5,834 | 5,727 | 6,445 | 5,644 | 5,679
+Total interest expense | 42,174 | 39,851 | 40,313 | 44,478 | 45,421
+Net interest income | 153,570 | 157,299 | 153,813 | 152,744 | 154,724
+Provision for credit losses, excluding PCD loans | 17,137 | 14,825 | 22,942 | 33,643 | 27,591
+Provision for (recapture of) credit losses on PCD loans | 1,003 | (1,819) | (459) | (1,754) | 667
+Total provision for credit losses | 18,140 | 13,006 | 22,483 | 31,889 | 28,258
+Net interest income after provision for credit losses | 135,430 | 144,293 | 131,330 | 120,855 | 126,466
+Non-interest income:
+Banking service revenues | 17,674 | 17,397 | 16,944 | 16,550 | 15,930
+Wealth management revenues | 9,367 | 9,727 | 8,913 | 11,378 | 9,014
+Mortgage banking activities | 5,137 | 5,860 | 6,131 | 4,699 | 4,312
+Total banking and financial service revenues | 32,178 | 32,984 | 31,988 | 32,627 | 29,256
+Other income (loss), net | 466 | 39 | 179 | (1,051) | 2,197
+Total non-interest income, net | 32,644 | 33,023 | 32,167 | 31,576 | 31,453
+Non-interest expense:
+Compensation and employee benefits | 40,511 | 41,176 | 41,347 | 43,093 | 39,836
+Occupancy, equipment and infrastructure costs | 14,760 | 14,273 | 13,418 | 15,338 | 14,994
+General and administrative expenses | 40,898 | 47,859 | 40,052 | 46,371 | 42,239
+Foreclosed real estate and other repossessed assets expense (income), net | 96 | (476) | (114) | 209 | (521)
+Total non-interest expense | 96,265 | 102,832 | 94,703 | 105,011 | 96,548
+Income before income taxes | 71,809 | 74,484 | 68,794 | 47,420 | 61,371
+Income tax expense (benefit) | 15,198 | 15,707 | 14,857 | (8,473) | 9,533
+Net income available to common shareholders | $ | 56,611 | $ | 58,777 | $ | 53,937 | $ | 55,893 | $ | 51,838
+4
+OFG Bancorp (NYSE: OFG)
+Table 2-2: Consolidated Statements of Operations (Continued)
+(Dollars in thousands) (unaudited) | Nine-month period ended September 30,
+2026 | 2025
+Interest income:
+Loans
+Non-PCD loans | $ | 437,067 | $ | 426,152
+PCD loans | 44,308 | 45,577
+Total interest income from loans | 481,375 | 471,729
+Investment securities and cash | 105,645 | 111,985
+Total interest income | 587,020 | 583,714
+Interest expense:
+Deposits
+Core deposits | 96,825 | 107,632
+Brokered deposits | 7,507 | 6,281
+Total deposits | 104,332 | 113,913
+Borrowings | 18,006 | 14,078
+Total interest expense | 122,338 | 127,991
+Net interest income | 464,682 | 455,723
+Provision for credit losses, excluding PCD loans | 54,904 | 73,411
+(Recapture of) provision for credit losses on PCD loans | (1,275) | 2,213
+Total provision for credit losses | 53,629 | 75,624
+Net interest income after provision for credit losses | 411,053 | 380,099
+Non-interest income:
+Banking service revenues | 52,015 | 47,893
+Wealth management revenues | 28,007 | 26,387
+Mortgage banking activities | 17,128 | 14,434
+Total banking and financial service revenues | 97,150 | 88,714
+Other income, net | 684 | 2,686
+Total non-interest income, net | 97,834 | 91,400
+Non-interest expense:
+Compensation and employee benefits | 123,034 | 119,333
+Occupancy, equipment and infrastructure costs | 42,451 | 44,443
+General and administrative expenses | 128,809 | 120,209
+Foreclosed real estate and other repossessed assets (income) expense, net | (494) | 817
+Total non-interest expense | 293,800 | 284,802
+Income before income taxes | 215,087 | 186,697
+Income tax expense | 45,762 | 37,487
+Net income available to common shareholders | $ | 169,325 | $ | 149,210
+5
+OFG Bancorp (NYSE: OFG)
+Table 3: Consolidated Statements of Financial Condition
+(Dollars in thousands) (unaudited) | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Cash and cash equivalents | $ | 566,773 | $ | 745,706 | $ | 636,499 | $ | 1,040,335 | $ | 740,349
+Investments:
+Trading securities | 22 | 23 | 24 | 23 | 21
+Investment securities available-for-sale, at fair value, no allowance for credit losses for any period
+Mortgage-backed securities | 2,397,434 | 2,370,468 | 2,457,541 | 2,508,730 | 2,564,831
+US treasury securities | 2,124 | 2,150 | 2,131 | 1,651 | 1,635
+Other investment securities | 500 | 500 | 500 | 501 | 503
+Total investment securities available-for-sale | 2,400,058 | 2,373,118 | 2,460,172 | 2,510,882 | 2,566,969
+Investment securities held-to-maturity, at amortized cost, no allowance for credit losses for any period
+Mortgage-backed securities | 252,328 | 258,698 | 264,580 | 269,498 | 275,116
+Other investment securities | — | — | — | — | 35,000
+Total investment securities held-to-maturity | 252,328 | 258,698 | 264,580 | 269,498 | 310,116
+Equity securities | 64,727 | 64,817 | 63,682 | 62,738 | 61,906
+Total investments | 2,717,135 | 2,696,656 | 2,788,458 | 2,843,141 | 2,939,012
+Loans, net | 8,266,856 | 8,117,021 | 8,040,074 | 8,014,246 | 7,935,413
+Other assets:
+Prepaid expenses | 30,921 | 25,687 | 17,050 | 20,415 | 150,461
+Deferred tax asset, net | 127,364 | 113,343 | 120,431 | 104,359 | 7,468
+Foreclosed real estate and repossessed properties | 6,296 | 5,870 | 6,347 | 5,947 | 8,025
+Premises and equipment, net | 96,538 | 95,601 | 92,731 | 93,554 | 100,760
+Goodwill | 84,241 | 84,241 | 84,241 | 84,241 | 84,241
+Other intangibles | 6,898 | 7,884 | 8,869 | 9,854 | 11,086
+Right of use assets | 22,815 | 19,640 | 20,275 | 21,261 | 22,694
+Servicing asset | 68,542 | 67,867 | 67,228 | 66,333 | 67,437
+Accounts receivable and other assets | 150,100 | 175,056 | 165,700 | 161,971 | 162,866
+Total assets | $ | 12,144,479 | $ | 12,154,572 | $ | 12,047,903 | $ | 12,465,657 | $ | 12,229,812
+Deposits:
+Demand deposits | $ | 4,751,226 | $ | 4,887,404 | $ | 5,347,977 | $ | 5,799,985 | $ | 5,791,959
+Savings accounts | 2,276,934 | 2,358,067 | 2,367,531 | 2,259,980 | 2,208,212
+Time deposits | 2,636,195 | 2,498,777 | 1,943,866 | 1,862,793 | 1,819,397
+Brokered deposits | 324,564 | 238,880 | 189,898 | 339,994 | 189,065
+Total deposits | 9,988,919 | 9,983,128 | 9,849,272 | 10,262,752 | 10,008,633
+Borrowings:
+Securities sold under agreements to repurchase | 200,673 | 100,085 | 100,086 | 100,714 | 100,791
+Advances from FHLB and other borrowings | 401,361 | 456,530 | 456,581 | 456,590 | 456,530
+Total borrowings | 602,034 | 556,615 | 556,667 | 557,304 | 557,321
+Other liabilities:
+Acceptances outstanding | 23,734 | 19,418 | 22,665 | 22,442 | 29,975
+Lease liability | 24,505 | 21,376 | 22,088 | 23,157 | 24,681
+GNMA buy-back option program liability | (21) | 58,692 | 52,938 | 54,358 | 56,492 | 46,716
+Deferred tax liability, net | 755 | 615 | 337 | — | 50,298
+Accrued expenses and other liabilities | 108,964 | 113,210 | 175,621 | 153,505 | 136,771
+Total liabilities | 10,807,603 | 10,747,300 | 10,681,008 | 11,075,652 | 10,854,395
+Stockholders' equity:
+Common stock | 59,885 | 59,885 | 59,885 | 59,885 | 59,885
+Additional paid-in capital | 643,653 | 642,019 | 640,656 | 642,973 | 641,350
+Legal surplus | 204,892 | 199,429 | 193,787 | 188,490 | 183,614
+Retained earnings | 1,013,210 | 976,946 | 938,349 | 904,630 | 866,826
+Treasury stock, at cost | (445,597) | (432,061) | (432,209) | (389,067) | (348,957)
+Accumulated other comprehensive loss, net | (139,167) | (38,946) | (33,573) | (16,906) | (27,301)
+Total stockholders' equity | 1,336,876 | 1,407,272 | 1,366,895 | 1,390,005 | 1,375,417
+Total liabilities and stockholders' equity | $ | 12,144,479 | $ | 12,154,572 | $ | 12,047,903 | $ | 12,465,657 | $ | 12,229,812
+6
+OFG Bancorp (NYSE: OFG)
+Table 4-1: Information on Loan Portfolio and Production
+(Dollars in thousands) (unaudited) | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Non-PCD:
+Mortgage, excluding GNMA buy-back option program | $ | 611,871 | $ | 604,990 | $ | 588,642 | $ | 582,563 | $ | 580,332
+Mortgage GNMA buy-back option program | (21) | 58,692 | 52,938 | 54,358 | 56,492 | 46,716
+Commercial PR | 2,859,805 | 2,679,280 | 2,611,166 | 2,586,305 | 2,469,925
+Commercial US | 862,850 | 871,454 | 871,640 | 829,975 | 831,731
+Consumer | 696,959 | 686,883 | 677,535 | 683,246 | 685,740
+Auto | 2,601,770 | 2,623,762 | 2,630,422 | 2,636,890 | 2,646,811
+7,691,947 | 7,519,307 | 7,433,763 | 7,375,471 | 7,261,255
+Less: Allowance for credit losses | (187,165) | (184,747) | (200,111) | (198,239) | (189,701)
+Total non-PCD loans held for investment, net | 7,504,782 | 7,334,560 | 7,233,652 | 7,177,232 | 7,071,554
+PCD:
+Mortgage | 689,095 | 709,278 | 730,629 | 751,291 | 772,808
+Commercial PR | 67,031 | 68,487 | 70,290 | 73,889 | 82,748
+Consumer | 263 | 316 | 306 | 302 | 337
+Auto | 63 | 66 | 75 | 89 | 119
+756,452 | 778,147 | 801,300 | 825,571 | 856,012
+Less: Allowance for credit losses | (4,664) | (3,508) | (3,845) | (4,102) | (8,081)
+Total PCD loans held for investment, net | 751,788 | 774,639 | 797,455 | 821,469 | 847,931
+Total loans held for investment | 8,256,570 | 8,109,199 | 8,031,107 | 7,998,701 | 7,919,485
+Mortgage loans held for sale | 10,286 | 7,822 | 8,967 | 12,483 | 9,680
+Other loans held for sale | — | — | — | 3,062 | 6,248
+Total loans, net | $ | 8,266,856 | $ | 8,117,021 | $ | 8,040,074 | $ | 8,014,246 | $ | 7,935,413
+Loan Portfolio Summary:
+Loans held for investment:
+Mortgage, excluding GNMA buy-back option program | $ | 1,300,966 | $ | 1,314,268 | $ | 1,319,271 | $ | 1,333,854 | $ | 1,353,140
+Mortgage GNMA buy-back option program | (21) | 58,692 | 52,938 | 54,358 | 56,492 | 46,716
+Commercial PR | 2,926,836 | 2,747,767 | 2,681,456 | 2,660,194 | 2,552,673
+Commercial US | 862,850 | 871,454 | 871,640 | 829,975 | 831,731
+Consumer | 697,222 | 687,199 | 677,841 | 683,548 | 686,077
+Auto | 2,601,833 | 2,623,828 | 2,630,497 | 2,636,979 | 2,646,930
+8,448,399 | 8,297,454 | 8,235,063 | 8,201,042 | 8,117,267
+Less: Allowance for credit losses | (191,829) | (188,255) | (203,956) | (202,341) | (197,782)
+Total loans held for investment, net | 8,256,570 | 8,109,199 | 8,031,107 | 7,998,701 | 7,919,485
+Mortgage loans held for sale | 10,286 | 7,822 | 8,967 | 12,483 | 9,680
+Other loans held for sale | — | — | — | 3,062 | 6,248
+Total loans, net | $ | 8,266,856 | $ | 8,117,021 | $ | 8,040,074 | $ | 8,014,246 | $ | 7,935,413
+OFG Bancorp (NYSE: OFG)
+Table 4-2: Information on Loan Portfolio and Production
+Quarter Ended | Nine-month period ended September 30,
+(Dollars in thousands) (unaudited) | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025 | 2026 | 2025
+Loan production | (13)
+Mortgage | $ | 49,805 | $ | 55,565 | $ | 41,948 | $ | 44,593 | $ | 42,392 | $ | 147,318 | $ | 134,981
+Commercial PR | 258,015 | 333,408 | 200,441 | 201,974 | 216,560 | 791,864 | 633,666
+Commercial US | 121,763 | 95,335 | 102,733 | 111,896 | 116,368 | 319,831 | 321,500
+Consumer | 87,708 | 82,287 | 68,481 | 68,204 | 76,027 | 238,476 | 220,643
+Auto | 176,534 | 188,440 | 195,256 | 178,928 | 172,558 | 560,230 | 655,724
+Total | $ | 693,825 | $ | 755,035 | $ | 608,859 | $ | 605,595 | $ | 623,905 | $ | 2,057,719 | $ | 1,966,514
+7
+OFG Bancorp (NYSE: OFG)
+Table 5-1: Average Balances, Net Interest Income and Net Interest Margin
+2026 Q3 | 2026 Q2 | 2026 Q1 | 2025 Q4 | 2025 Q3
+(Dollars in thousands) (unaudited) | Average Balance | Interest Income/ Expense | Yield/ Rate | Average Balance | Interest Income/ Expense | Yield/ Rate | Average Balance | Interest Income/ Expense | Yield/ Rate | Average Balance | Interest Income/ Expense | Yield/ Rate | Average Balance | Interest Income/ Expense | Yield/ Rate
+Interest earning assets:
+Cash equivalents | $ | 644,029 | $ | 5,859 | 3.61 | % | $ | 615,369 | $ | 5,493 | 3.58 | % | $ | 660,529 | $ | 5,855 | 3.59 | % | $ | 803,931 | $ | 7,898 | 3.90 | % | $ | 784,978 | $ | 8,555 | 4.32 | %
+Investment securities | 2,722,141 | 29,479 | 4.33 | % | 2,721,498 | 29,242 | 4.30 | % | 2,805,387 | 29,717 | 4.24 | % | 2,906,970 | 31,113 | 4.28 | % | 2,832,563 | 30,256 | 4.27 | %
+Loans held for investment
+Non-PCD loans | 7,519,777 | 147,994 | 7.81 | % | 7,460,999 | 146,862 | 7.90 | % | 7,356,900 | 142,211 | 7.84 | % | 7,272,783 | 144,385 | 7.88 | % | 7,228,920 | 146,665 | 8.05 | %
+PCD loans | 762,879 | 12,412 | 6.51 | % | 784,655 | 15,553 | 7.93 | % | 810,538 | 16,343 | 8.07 | % | 844,249 | 13,826 | 6.55 | % | 869,138 | 14,669 | 6.75 | %
+Total loans | 8,282,656 | 160,406 | 7.68 | % | 8,245,654 | 162,415 | 7.90 | % | 8,167,438 | 158,554 | 7.87 | % | 8,117,032 | 158,211 | 7.73 | % | 8,098,058 | 161,334 | 7.90 | %
+Total interest-earning assets | $ | 11,648,826 | $ | 195,744 | 6.67 | % | $ | 11,582,521 | $ | 197,150 | 6.83 | % | $ | 11,633,354 | $ | 194,126 | 6.77 | % | $ | 11,827,933 | $ | 197,222 | 6.62 | % | $ | 11,715,599 | $ | 200,145 | 6.78 | %
+Interest bearing liabilities:
+Deposits
+NOW accounts | $ | 2,076,510 | $ | 5,959 | 1.14 | % | $ | 2,503,812 | $ | 8,786 | 1.41 | % | $ | 2,711,262 | $ | 10,093 | 1.51 | % | $ | 3,211,013 | $ | 14,976 | 1.85 | % | $ | 3,208,598 | $ | 15,941 | 1.97 | %
+Savings accounts | 2,333,667 | 6,316 | 1.07 | % | 2,345,584 | 6,281 | 1.07 | % | 2,319,764 | 6,391 | 1.12 | % | 2,258,856 | 6,450 | 1.13 | % | 2,215,538 | 6,212 | 1.11 | %
+Time deposits | 2,553,623 | 20,639 | 3.21 | % | 2,107,062 | 16,138 | 3.07 | % | 1,872,184 | 13,957 | 3.02 | % | 1,840,618 | 14,113 | 3.04 | % | 1,854,320 | 14,362 | 3.07 | %
+Brokered deposits | 259,219 | 2,671 | 4.09 | % | 216,327 | 2,164 | 4.01 | % | 268,379 | 2,672 | 4.04 | % | 230,789 | 2,352 | 4.04 | % | 220,362 | 2,284 | 4.11 | %
+7,223,019 | 35,585 | 1.95 | % | 7,172,785 | 33,369 | 1.87 | % | 7,171,589 | 33,113 | 1.87 | % | 7,541,276 | 37,891 | 1.99 | % | 7,498,818 | 38,799 | 2.05 | %
+Non-interest bearing deposit accounts | 2,756,880 | — | — | 2,749,022 | — | — | 2,657,430 | — | — | 2,620,452 | — | — | 2,587,913 | — | —
+Fair value premium and core deposit intangible amortization | — | 755 | — | — | 755 | — | — | 755 | — | — | 943 | — | — | 943 | —
+Total deposits | 9,979,899 | 36,340 | 1.44 | % | 9,921,807 | 34,124 | 1.38 | % | 9,829,019 | 33,868 | 1.40 | % | 10,161,728 | 38,834 | 1.52 | % | 10,086,731 | 39,742 | 1.56 | %
+Borrowings
+Securities sold under agreements to repurchase | 134,360 | 1,225 | 3.62 | % | 122,685 | 1,074 | 3.51 | % | 204,480 | 1,855 | 3.68 | % | 100,000 | 951 | 3.77 | % | 93,028 | 986 | 4.21 | %
+Advances from FHLB and other borrowings | 447,101 | 4,609 | 4.09 | % | 457,039 | 4,653 | 4.08 | % | 455,820 | 4,590 | 4.08 | % | 455,820 | 4,693 | 4.08 | % | 455,804 | 4,693 | 4.08 | %
+Total borrowings | 581,461 | 5,834 | 3.98 | % | 579,724 | 5,727 | 3.96 | % | 660,300 | 6,445 | 3.96 | % | 555,820 | 5,644 | 4.03 | % | 548,832 | 5,679 | 4.10 | %
+Total liabilities | $ | 10,561,360 | $ | 42,174 | 1.58 | % | $ | 10,501,531 | $ | 39,851 | 1.52 | % | $ | 10,489,319 | $ | 40,313 | 1.56 | % | $ | 10,717,548 | $ | 44,478 | 1.65 | % | $ | 10,635,563 | $ | 45,421 | 1.69 | %
+Interest rate spread | $ | 153,570 | 5.09 | % | $ | 157,299 | 5.31 | % | $ | 153,813 | 5.21 | % | $ | 152,744 | 4.97 | % | $ | 154,724 | 5.09 | %
+Net interest margin | 5.23 | % | 5.45 | % | 5.36 | % | 5.12 | % | 5.24 | %
+Core deposits: (Non-GAAP)
+NOW accounts | $ | 2,076,510 | $ | 5,959 | 1.14 | % | $ | 2,503,812 | $ | 8,786 | 1.41 | % | $ | 2,711,262 | $ | 10,093 | 1.51 | % | $ | 3,211,013 | $ | 14,976 | 1.85 | % | $ | 3,208,598 | $ | 15,941 | 1.97 | %
+Savings accounts | 2,333,667 | 6,316 | 1.07 | % | 2,345,584 | 6,281 | 1.07 | % | 2,319,764 | 6,391 | 1.12 | % | 2,258,856 | 6,450 | 1.13 | % | 2,215,538 | 6,212 | 1.11 | %
+Time deposits | 2,553,623 | 20,639 | 3.21 | % | 2,107,062 | 16,138 | 3.07 | % | 1,872,184 | 13,957 | 3.02 | % | 1,840,618 | 14,113 | 3.04 | % | 1,854,320 | 14,362 | 3.07 | %
+6,963,800 | 32,914 | 1.88 | % | 6,956,458 | 31,205 | 1.80 | % | 6,903,210 | 30,441 | 1.79 | % | 7,310,487 | 35,539 | 1.93 | % | 7,278,456 | 36,515 | 1.99 | %
+Non-interest bearing deposit accounts | 2,756,880 | — | — | 2,749,022 | — | — | 2,657,430 | — | — | 2,620,452 | — | — | 2,587,913 | — | —
+Total core deposits | $ | 9,720,680 | $ | 32,914 | 1.34 | % | $ | 9,705,480 | $ | 31,205 | 1.29 | % | $ | 9,560,640 | $ | 30,441 | 1.29 | % | $ | 9,930,939 | $ | 35,539 | 1.42 | % | $ | 9,866,369 | $ | 36,515 | 1.47 | %
+Total borrowings and brokered deposits: (Non-GAAP)
+Total borrowings | $ | 581,461 | $ | 5,834 | 3.98 | % | $ | 579,724 | $ | 5,727 | 3.96 | % | $ | 660,300 | $ | 6,445 | 3.96 | % | $ | 555,820 | $ | 5,644 | 4.03 | % | $ | 548,832 | $ | 5,679 | 4.10 | %
+Brokered deposits | 259,219 | 2,671 | 4.09 | % | 216,327 | 2,164 | 4.01 | % | 268,379 | 2,672 | 4.04 | % | 230,789 | 2,352 | 4.04 | % | 220,362 | 2,284 | 4.11 | %
+Total borrowings and brokered deposits | $ | 840,680 | $ | 8,505 | 4.01 | % | $ | 796,051 | $ | 7,891 | 3.98 | % | $ | 928,679 | $ | 9,117 | 3.98 | % | $ | 786,609 | $ | 7,996 | 4.03 | % | $ | 769,194 | $ | 7,963 | 4.11 | %
+8
+OFG Bancorp (NYSE: OFG)
+Table 5-2: Average Balances, Net Interest Income and Net Interest Margin (Continued)
+Nine-month period ended September 30,
+2026 | 2025
+(Dollars in thousands) (unaudited) | Average Balance | Interest Income/ Expense | Yield/ Rate | Average Balance | Interest Income/ Expense | Yield/ Rate
+Interest earning assets:
+Cash equivalents | $ | 639,915 | $ | 17,207 | 3.60 | % | $ | 708,922 | $ | 22,949 | 4.33 | %
+Investment securities | 2,749,370 | 88,438 | 4.29 | % | 2,787,888 | 89,036 | 4.26 | %
+Loans held for investment
+Non-PCD loans | 7,446,489 | 437,067 | 7.85 | % | 7,054,829 | 426,152 | 8.08 | %
+PCD loans | 785,849 | 44,308 | 7.52 | % | 895,224 | 45,577 | 6.79 | %
+Total loans | 8,232,338 | 481,375 | 7.82 | % | 7,950,053 | 471,729 | 7.93 | %
+Total interest-earning assets | $ | 11,621,623 | $ | 587,020 | 6.75 | % | $ | 11,446,863 | $ | 583,714 | 6.82 | %
+Interest bearing liabilities:
+Deposits
+NOW accounts | $ | 2,428,203 | $ | 24,838 | 1.37 | % | $ | 3,204,413 | $ | 46,288 | 1.93 | %
+Savings accounts | 2,333,056 | 18,988 | 1.09 | % | 2,143,116 | 16,415 | 1.02 | %
+Time deposits | 2,180,119 | 50,735 | 3.11 | % | 1,824,830 | 42,099 | 3.08 | %
+Brokered deposits | 247,942 | 7,507 | 4.05 | % | 202,309 | 6,281 | 4.15 | %
+7,189,320 | 102,068 | 1.90 | % | 7,374,668 | 111,083 | 2.01 | %
+Non-interest bearing deposit accounts | 2,721,477 | — | — | % | 2,570,680 | — | — | %
+Fair value premium and core deposit intangible amortization | — | 2,264 | — | — | 2,830 | —
+Total deposits | 9,910,797 | 104,332 | 1.41 | % | 9,945,348 | 113,913 | 1.53 | %
+Borrowings
+Securities sold under agreements to repurchase | 153,585 | 4,154 | 3.62 | % | 55,800 | 1,816 | 4.35 | %
+Advances from FHLB and other borrowings | 453,288 | 13,852 | 4.09 | % | 395,669 | 12,262 | 4.14 | %
+Total borrowings | 606,873 | 18,006 | 3.97 | % | 451,469 | 14,078 | 4.17 | %
+Total interest-bearing liabilities | $ | 10,517,670 | $ | 122,338 | 1.56 | % | $ | 10,396,817 | $ | 127,991 | 1.65 | %
+Interest rate spread | $ | 464,682 | 5.19 | % | $ | 455,723 | 5.17 | %
+Net interest margin | 5.35 | % | 5.32 | %
+Core deposits: (Non-GAAP)
+NOW accounts | $ | 2,428,203 | $ | 24,838 | 1.37 | % | $ | 3,204,413 | $ | 46,288 | 1.93 | %
+Savings accounts | 2,333,056 | 18,988 | 1.09 | % | 2,143,116 | 16,415 | 1.02 | %
+Time deposits | 2,180,119 | 50,735 | 3.11 | % | 1,824,830 | 42,099 | 3.08 | %
+6,941,378 | 94,561 | 1.82 | % | 7,172,359 | 104,802 | 1.95 | %
+Non-interest bearing deposit accounts | 2,721,477 | — | — | % | 2,570,680 | — | — | %
+Total core deposits | $ | 9,662,855 | $ | 94,561 | 1.31 | % | $ | 9,743,039 | $ | 104,802 | 1.44 | %
+Total borrowings and brokered deposits: (Non-GAAP)
+Total borrowings | $ | 606,873 | $ | 18,006 | 3.97 | % | $ | 451,469 | $ | 14,078 | 4.17 | %
+Brokered deposits | 247,942 | 7,507 | 4.05 | % | 202,309 | 6,281 | 4.15 | %
+Total borrowings and brokered deposits | $ | 854,815 | $ | 25,513 | 3.99 | % | $ | 653,778 | $ | 20,359 | 4.16 | %
+9
+OFG Bancorp (NYSE: OFG)
+Table 6-1: Loan Information and Performance Statistics
+2026 | 2026 | 2026 | 2025 | 2025
+(Dollars in thousands) (unaudited) | Q3 | Q2 | Q1 | Q4 | Q3
+Net Charge-offs
+Non-PCD
+Mortgage:
+Charge-offs | $ | 85 | $ | — | $ | 66 | $ | — | $ | —
+Recoveries | (187) | (265) | (193) | (91) | (171)
+Total mortgage | (102) | (265) | (127) | (91) | (171)
+Commercial PR:
+Charge-offs | 295 | 15,225 | 75 | 6,012 | 1,446
+Recoveries | (169) | (173) | (52) | (1,275) | (922)
+Total commercial PR | 126 | 15,052 | 23 | 4,737 | 524
+Commercial US:
+Charge-offs | 299 | 1,608 | 3,934 | 55 | 3,647
+Recoveries | (1,137) | (55) | — | (44) | —
+Total commercial US | (838) | 1,553 | 3,934 | 11 | 3,647
+Consumer:
+Charge-offs | 7,774 | 7,766 | 8,819 | 9,023 | 7,704
+Recoveries | (1,104) | (1,112) | (1,068) | (964) | (896)
+Total consumer | 6,670 | 6,654 | 7,751 | 8,059 | 6,808
+Auto:
+Charge-offs | 16,110 | 14,420 | 18,159 | 19,002 | 16,743
+Recoveries | (7,353) | (7,141) | (8,159) | (7,070) | (7,108)
+Total auto | 8,757 | 7,279 | 10,000 | 11,932 | 9,635
+Total | $ | 14,613 | $ | 30,273 | $ | 21,581 | $ | 24,648 | $ | 20,443
+PCD
+Mortgage:
+Charge-offs | $ | — | $ | — | $ | 6 | $ | — | $ | —
+Recoveries | (100) | (78) | (167) | (239) | (281)
+Total mortgage | (100) | (78) | (161) | (239) | (281)
+Commercial PR:
+Charge-offs | — | — | — | 3,223 | 205
+Recoveries | (15) | (1,380) | (21) | (734) | (118)
+Total commercial PR | (15) | (1,380) | (21) | 2,489 | 87
+Consumer:
+Charge-offs | — | — | — | — | —
+Recoveries | (14) | (13) | (6) | (6) | (10)
+Total consumer | (14) | (13) | (6) | (6) | (10)
+Auto:
+Charge-offs | — | — | — | 6 | 2
+Recoveries | (24) | (11) | (14) | (25) | (33)
+Total auto | (24) | (11) | (14) | (19) | (31)
+Total | $ | (153) | $ | (1,482) | $ | (202) | $ | 2,225 | $ | (235)
+Total Net Charge-offs | $ | 14,460 | $ | 28,791 | $ | 21,379 | $ | 26,873 | $ | 20,208
+Net Charge-off Rates
+Mortgage | (0.06) | % | (0.10) | % | (0.09) | % | (0.10) | % | (0.13) | %
+Commercial PR | 0.02 | % | 2.01 | % | — | % | 1.11 | % | 0.10 | %
+Commercial US | (0.39) | % | 0.71 | % | 1.85 | % | 0.01 | % | 1.74 | %
+Consumer | 3.73 | % | 3.78 | % | 4.40 | % | 4.55 | % | 3.85 | %
+Auto | 1.34 | % | 1.11 | % | 1.52 | % | 1.81 | % | 1.45 | %
+Total | 0.70 | % | 1.40 | % | 1.05 | % | 1.32 | % | 1.00 | %
+Average Loans Held For Investment
+Mortgage | $ | 1,301,792 | $ | 1,313,065 | $ | 1,322,249 | $ | 1,341,058 | $ | 1,361,765
+Commercial PR | 2,793,499 | 2,726,998 | 2,654,345 | 2,596,971 | 2,536,829
+Commercial US | 859,828 | 876,561 | 849,850 | 834,224 | 836,527
+Consumer | 714,478 | 702,519 | 704,872 | 707,401 | 705,945
+Auto | 2,613,059 | 2,626,511 | 2,636,122 | 2,637,378 | 2,656,992
+Total | $ | 8,282,656 | $ | 8,245,654 | $ | 8,167,438 | $ | 8,117,032 | $ | 8,098,058
+10
+OFG Bancorp (NYSE: OFG)
+Table 6-2: Loan Information and Performance Statistics (Excludes PCD Loans)
+2026 | 2026 | 2026 | 2025 | 2025
+(Dollars in thousands) (unaudited) | Q3 | Q2 | Q1 | Q4 | Q3
+Early Delinquency (30 - 89 days past due)
+Mortgage | $ | 10,224 | $ | 11,258 | $ | 8,287 | $ | 10,709 | $ | 11,474
+Commercial | 3,678 | 6,308 | 4,309 | 2,004 | 9,423
+Consumer | 14,969 | 13,410 | 13,615 | 15,341 | 15,000
+Auto | 175,187 | 157,876 | 138,020 | 178,100 | 170,075
+Total | $ | 204,058 | $ | 188,852 | $ | 164,231 | $ | 206,154 | $ | 205,972
+Early Delinquency Rates (30 - 89 days past due)
+Mortgage | 1.52 | % | 1.71 | % | 1.29 | % | 1.68 | % | 1.83 | %
+Commercial | 0.10 | % | 0.18 | % | 0.12 | % | 0.06 | % | 0.29 | %
+Consumer | 2.15 | % | 1.95 | % | 2.01 | % | 2.25 | % | 2.19 | %
+Auto | 6.73 | % | 6.02 | % | 5.25 | % | 6.75 | % | 6.43 | %
+Total | 2.65 | % | 2.51 | % | 2.21 | % | 2.80 | % | 2.84 | %
+Total Delinquency (30 days and over past due)
+Mortgage:
+Traditional, Non traditional, and Loans under Loss Mitigation | $ | 20,861 | $ | 21,430 | $ | 20,192 | $ | 22,246 | $ | 22,657
+GNMA's buy-back option program | (21) | 58,692 | 52,938 | 54,358 | 56,492 | 46,716
+Total mortgage | 79,553 | 74,368 | 74,550 | 78,738 | 69,373
+Commercial | 10,284 | 12,777 | 8,052 | 11,534 | 20,592
+Consumer | 18,661 | 17,139 | 17,343 | 19,519 | 18,942
+Auto | 191,992 | 172,395 | 152,912 | 198,779 | 185,964
+Total | $ | 300,490 | $ | 276,679 | $ | 252,857 | $ | 308,570 | $ | 294,871
+Total Delinquency Rates (30 days and over past due)
+Mortgage:
+Traditional, Non traditional, and Loans under Loss Mitigation | 3.11 | % | 3.26 | % | 3.14 | % | 3.48 | % | 3.61 | %
+GNMA's buy-back option program | (21) | 8.75 | % | 8.05 | % | 8.45 | % | 8.84 | % | 7.45 | %
+Total mortgage | 11.86 | % | 11.30 | % | 11.59 | % | 12.32 | % | 11.06 | %
+Commercial | 0.28 | % | 0.36 | % | 0.23 | % | 0.34 | % | 0.62 | %
+Consumer | 2.68 | % | 2.50 | % | 2.56 | % | 2.86 | % | 2.76 | %
+Auto | 7.38 | % | 6.57 | % | 5.81 | % | 7.54 | % | 7.03 | %
+Total | 3.91 | % | 3.68 | % | 3.40 | % | 4.18 | % | 4.06 | %
+Nonperforming Assets | (14)
+Mortgage | $ | 15,860 | $ | 16,238 | $ | 17,921 | $ | 17,400 | $ | 17,426
+Commercial | 25,700 | 32,474 | 84,004 | 87,253 | 53,428
+Consumer | 3,740 | 3,798 | 3,837 | 4,378 | 4,194
+Auto | 16,919 | 14,580 | 14,934 | 20,750 | 15,962
+Total nonperforming loans | 62,219 | 67,090 | 120,696 | 129,781 | 91,010
+Foreclosed real estate | 1,615 | 1,675 | 2,037 | 2,490 | 3,160
+Other repossessed assets | 4,681 | 4,195 | 4,310 | 3,457 | 4,865
+Total nonperforming assets | $ | 68,515 | $ | 72,960 | $ | 127,043 | $ | 135,728 | $ | 99,035
+Nonperforming Loan Rates
+Mortgage | 2.37 | % | 2.47 | % | 2.79 | % | 2.72 | % | 2.78 | %
+Commercial | 0.69 | % | 0.91 | % | 2.41 | % | 2.55 | % | 1.62 | %
+Consumer | 0.54 | % | 0.55 | % | 0.57 | % | 0.64 | % | 0.61 | %
+Auto | 0.65 | % | 0.56 | % | 0.57 | % | 0.79 | % | 0.60 | %
+Total loans | 0.81 | % | 0.89 | % | 1.62 | % | 1.76 | % | 1.25 | %
+11
+OFG Bancorp (NYSE: OFG)
+Table 6-3: Loan Information and Performance Statistics
+2026 | 2026 | 2026 | 2025 | 2025
+(Dollars in thousands) (unaudited) | Q3 | Q2 | Q1 | Q4 | Q3
+Nonperforming PCD Loans | (14)
+Mortgage | $ | 217 | $ | 221 | $ | 224 | $ | 227 | $ | 230
+Commercial | — | — | 24 | 55 | 7,803
+Total nonperforming loans | $ | 217 | $ | 221 | $ | 248 | $ | 282 | $ | 8,033
+Nonperforming PCD Loan Rates
+Mortgage | 0.03 | % | 0.03 | % | 0.03 | % | 0.03 | % | 0.03 | %
+Commercial | 0.00 | % | 0.00 | % | 0.03 | % | 0.07 | % | 9.43 | %
+Total | 0.03 | % | 0.03 | % | 0.03 | % | 0.03 | % | 0.94 | %
+Total PCD Loans Held for Investment
+Mortgage | $ | 689,095 | $ | 709,278 | $ | 730,629 | $ | 751,291 | $ | 772,808
+Commercial | 67,031 | 68,487 | 70,290 | 73,889 | 82,748
+Consumer | 263 | 316 | 306 | 302 | 337
+Auto | 63 | 66 | 75 | 89 | 119
+Total loans | $ | 756,452 | $ | 778,147 | $ | 801,300 | $ | 825,571 | $ | 856,012
+Total Nonperforming Loans | (14)
+Mortgage | $ | 16,077 | $ | 16,459 | $ | 18,145 | $ | 17,627 | $ | 17,656
+Commercial | 25,700 | 32,474 | 84,028 | 87,308 | 61,231
+Consumer | 3,740 | 3,798 | 3,837 | 4,378 | 4,194
+Auto | 16,919 | 14,580 | 14,934 | 20,750 | 15,962
+Total nonperforming loans | $ | 62,436 | $ | 67,311 | $ | 120,944 | $ | 130,063 | $ | 99,043
+Total Nonperforming Loan Rates
+Mortgage | 1.18 | % | 1.20 | % | 1.32 | % | 1.27 | % | 1.26 | %
+Commercial | 0.68 | % | 0.90 | % | 2.36 | % | 2.50 | % | 1.81 | %
+Consumer | 0.54 | % | 0.55 | % | 0.57 | % | 0.64 | % | 0.61 | %
+Auto | 0.65 | % | 0.56 | % | 0.57 | % | 0.79 | % | 0.60 | %
+Total | 0.74 | % | 0.81 | % | 1.47 | % | 1.59 | % | 1.22 | %
+Total Loans Held for Investment
+Mortgage | $ | 1,359,658 | $ | 1,367,206 | $ | 1,373,629 | $ | 1,390,346 | $ | 1,399,856
+Commercial | 3,789,686 | 3,619,221 | 3,553,096 | 3,490,169 | 3,384,404
+Consumer | 697,222 | 687,199 | 677,841 | 683,548 | 686,077
+Auto | 2,601,833 | 2,623,828 | 2,630,497 | 2,636,979 | 2,646,930
+Total loans | $ | 8,448,399 | $ | 8,297,454 | $ | 8,235,063 | $ | 8,201,042 | $ | 8,117,267
+(a) Refer to “(a)” in Table 1-1.
+12
+OFG Bancorp (NYSE: OFG)
+Table 7: Allowance for Credit Losses
+Quarter Ended September 30, 2026
+(Dollars in thousands) (unaudited) | Mortgage | Commercial | Consumer | Auto | Total
+Allowance for credit losses Non-PCD:
+Balance at beginning of period | $ | 6,314 | $ | 52,707 | $ | 33,757 | $ | 91,969 | $ | 184,747
+(Recapture of) provision for credit losses | (3) | (421) | 7,383 | 10,072 | 17,031
+Charge-offs | (85) | (594) | (7,774) | (16,110) | (24,563)
+Recoveries | 187 | 1,306 | 1,104 | 7,353 | 9,950
+Balance at end of period | $ | 6,413 | $ | 52,998 | $ | 34,470 | $ | 93,284 | $ | 187,165
+Allowance for credit losses PCD:
+Balance at beginning of period | $ | 3,143 | $ | 354 | $ | 10 | $ | 1 | $ | 3,508
+(Recapture of) provision for credit losses | (255) | 1,298 | (16) | (24) | 1,003
+Charge-offs | — | — | — | — | —
+Recoveries | 100 | 15 | 14 | 24 | 153
+Balance at end of period | $ | 2,988 | $ | 1,667 | $ | 8 | $ | 1 | $ | 4,664
+Allowance for credit losses summary:
+Balance at beginning of period | $ | 9,457 | $ | 53,061 | $ | 33,767 | $ | 91,970 | $ | 188,255
+(Recapture of) provision for credit losses | (258) | 877 | 7,367 | 10,048 | 18,034
+Charge-offs | (85) | (594) | (7,774) | (16,110) | (24,563)
+Recoveries | 287 | 1,321 | 1,118 | 7,377 | 10,103
+Balance at end of period | $ | 9,401 | $ | 54,665 | $ | 34,478 | $ | 93,285 | $ | 191,829
+Allowance coverage ratio | 0.69 | % | 1.44 | % | 4.95 | % | 3.59 | % | 2.27 | %
+) Refer to “(c)” in Table 1-1.
+13
+OFG Bancorp (NYSE: OFG)
+Table 8-1: Reconciliation of GAAP to Non-GAAP Measures and Calculation of Regulatory Capital
+In addition to disclosing required regulatory capital measures, we also report certain non-GAAP capital measures that management uses in assessing its capital adequacy. These non-GAAP measures include tangible common equity ("TCE") and TCE ratio. The table below provides the details of the calculation of our regulatory capital and non-GAAP capital measures. While our non-GAAP capital measures are widely used by investors, analysts and bank regulatory agencies to assess the capital position of financial services companies, they may not be comparable to similarly titled measures reported by other companies.
+2026 | 2026 | 2026 | 2025 | 2025
+(Dollars in thousands) (unaudited) | Q3 | Q2 | Q1 | Q4 | Q3
+Stockholders' Equity to Non-GAAP Tangible Common Equity
+Total stockholders' equity | $ | 1,336,876 | $ | 1,407,272 | $ | 1,366,895 | $ | 1,390,005 | $ | 1,375,417
+Less: Intangible assets | (91,139) | (92,124) | (93,110) | (94,096) | (95,327)
+Tangible common equity (Non-GAAP) | $ | 1,245,737 | $ | 1,315,148 | $ | 1,273,785 | $ | 1,295,909 | $ | 1,280,090
+Common shares outstanding at end of period | 42,005 | 42,265 | 42,257 | 43,257 | 44,265
+Tangible book value per common share (Non-GAAP) | $ | 29.66 | $ | 31.12 | $ | 30.14 | $ | 29.96 | $ | 28.92
+Total Assets to Non-GAAP Tangible Assets
+Total assets | $ | 12,144,479 | $ | 12,154,572 | $ | 12,047,903 | $ | 12,465,657 | $ | 12,229,812
+Less: Intangible assets | (91,139) | (92,124) | (93,110) | (94,096) | (95,327)
+Tangible assets (Non-GAAP) | $ | 12,053,340 | $ | 12,062,448 | $ | 11,954,793 | $ | 12,371,561 | $ | 12,134,485
+Non-GAAP TCE Ratio
+Tangible common equity | $ | 1,245,737 | $ | 1,315,148 | $ | 1,273,785 | $ | 1,295,909 | $ | 1,280,090
+Tangible assets | 12,053,340 | 12,062,448 | 11,954,793 | 12,371,561 | 12,134,485
+TCE ratio | 10.34 | % | 10.90 | % | 10.66 | % | 10.47 | % | 10.55 | %
+Average Equity to Non-GAAP Average Tangible Common Equity
+Average total stockholders' equity | $ | 1,418,891 | $ | 1,403,137 | $ | 1,406,938 | $ | 1,394,097 | $ | 1,361,055
+Less: Average intangible assets | (91,489) | (92,471) | (93,460) | (94,528) | (95,756)
+Average tangible common equity (Non-GAAP) | $ | 1,327,402 | $ | 1,310,666 | $ | 1,313,478 | $ | 1,299,569 | $ | 1,265,299
+14
+OFG Bancorp (NYSE: OFG)
+Table 8-2: Reconciliation of GAAP to Non-GAAP Measures and Calculation of Regulatory Capital Measures (Continued)
+BASEL III
+Standardized
+2026 | 2026 | 2026 | 2025 | 2025
+(Dollars in thousands) (unaudited) | Q3 | Q2 | Q1 | Q4 | Q3
+Regulatory Capital Metrics
+Common equity Tier 1 capital | $ | 1,390,580 | $ | 1,359,866 | $ | 1,312,874 | $ | 1,318,632 | $ | 1,313,558
+Tier 1 capital | 1,390,580 | 1,359,866 | 1,312,874 | 1,318,632 | 1,313,558
+Total risk-based capital | (15) | 1,514,680 | 1,481,504 | 1,433,271 | 1,437,595 | 1,430,713
+Risk-weighted assets | 9,863,708 | 9,666,852 | 9,550,860 | 9,436,010 | 9,298,556
+Regulatory Capital Ratios
+Common equity Tier 1 capital ratio | (16) | 14.10 | % | 14.07 | % | 13.75 | % | 13.97 | % | 14.13 | %
+Tier 1 risk-based capital ratio | (17) | 14.10 | % | 14.07 | % | 13.75 | % | 13.97 | % | 14.13 | %
+Total risk-based capital ratio | (18) | 15.36 | % | 15.33 | % | 15.01 | % | 15.24 | % | 15.39 | %
+Leverage ratio | (19) | 11.44 | % | 11.23 | % | 10.88 | % | 10.71 | % | 10.75 | %
+Common Equity Tier 1 Capital Ratio Under Basel III Standardized Approach
+Total stockholders' equity | $ | 1,336,876 | $ | 1,407,272 | $ | 1,366,895 | $ | 1,390,005 | $ | 1,375,417
+Plus: Unrealized losses on available-for-sale securities, net of income tax | 139,167 | 38,946 | 33,573 | 16,906 | 27,301
+Total adjusted stockholders’equity | 1,476,043 | 1,446,218 | 1,400,468 | 1,406,911 | 1,402,718
+Less: Disallowed goodwill, net | (79,132) | (79,321) | (79,764) | (79,700) | (79,889)
+Disallowed other intangible assets, net | (6,331) | (7,031) | (7,729) | (8,429) | (9,271)
+Disallowed deferred tax assets, net | — | — | (101) | (150) | —
+Common equity Tier 1 capital and Tier 1 capital | 1,390,580 | 1,359,866 | 1,312,874 | 1,318,632 | 1,313,558
+Plus Tier 2 capital: Qualifying allowance for credit losses | 124,100 | 121,638 | 120,397 | 118,963 | 117,155
+Total risk-based capital | $ | 1,514,680 | $ | 1,481,504 | $ | 1,433,271 | $ | 1,437,595 | $ | 1,430,713
+15
+OFG Bancorp (NYSE: OFG)
+Table 9: Notes to Financial Summary, Selected Metrics, Loans, and Consolidated Financial Statements (Tables 1 - 8)
+(1) | Total banking and financial service revenues.
+(2) | Net interest income plus non-interest income, net (core)
+(3) | Calculated based on net income available to common shareholders divided by average common shares outstanding for the period.
+(4) | Calculated based on net income available to common shareholders divided by total average common shares outstanding and equivalents for the period as if converted.
+(5) | Tangible book value per common share is a non-GAAP measure calculated based on tangible common equity divided by common shares outstanding. See "Tables 8-1 and 8-2: Reconciliation of GAAP to Non-GAAP Measures and Calculation of Regulatory Capital Measures" for additional information.
+(6) | Information includes all loans held for investment, including PCD loans.
+(7) | Calculated based on annualized net interest income for the period divided by average interest-earning assets for the period.
+(8) | Calculated based on annualized income, net of tax, for the period divided by average total assets for the period.
+(9) | Calculated based on annualized income available to common shareholders for the period divided by average tangible common equity for the period.
+(10) | Calculated based on non-interest expense for the period divided by total net interest income and total banking and financial services revenues for the period.
+(11) | Calculated based on annualized net charge-offs for the period divided by average loans held for investment for the period.
+(12) | Non-GAAP ratios. See "Tables 8-1 and 8-2: Reconciliation of GAAP to Non-GAAP Measures and Calculation of Regulatory Capital Measures" for information on the calculation of each of these ratios.
+(13) | Production of new loans (excluding renewals).
+(14) | Most PCD loans are considered to be performing due to the application of the accretion method, in which these loans will accrete interest income over the remaining life of the loans using estimated cash flow analyses. Therefore, they are not included as non-performing loans. PCD loan pools that are not accreting interest income are deemed to be non-performing loans and presented separately.
+(15) | Total risk-based capital equals the sum of Tier 1 capital and Tier 2 capital.
+(16) | Common equity Tier 1 capital ratio is a regulatory capital measure calculated based on Common equity Tier 1 capital divided by risk-weighted assets.
+(17) | Tier 1 risk-based capital ratio is a regulatory capital measure calculated based on Tier 1 capital divided by risk-weighted assets.
+(18) | Total risk-based capital ratio is a regulatory capital measure calculated based on Total risk-based capital divided by risk-weighted assets.
+(19) | Leverage capital ratio is a regulatory capital measure calculated based on Tier 1 capital divided by average assets, after certain adjustments.
+(20) | Pre-provision net revenues is a non-GAAP measure calculated based on net interest income plus total non-interest income, net, less total non-interest expenses for the period.
+(21) | Under the GNMA program, issuers such as OFG Bancorp have the option but not the obligation to repurchase loans that are 90 days or more past due. For accounting purposes, these loans subject to the repurchase option are required to be reflected (rebooked) on the financial statements of the Company with an offsetting liability.
+16
