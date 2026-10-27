@@ -280,5 +280,104 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/724910/000137647426000663/nve_ex99z1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/724910/000137647426000663/0001376474-26-000663-index.htm",
     "saved_at": "2026-10-25T21:52:34+08:00"
+  },
+  {
+    "cik": "1506251",
+    "company": "Citius Pharmaceuticals, Inc.",
+    "accession": "0001213900-26-112478",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": {
+      "text": "Management expects the fourth-quarter momentum in LYMPHIR demand to carry into fiscal 2027. No numerical outlook is given.",
+      "quote": "As we enter fiscal 2027, we expect the momentum we built in the fourth quarter to carry forward"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Unit sales of LYMPHIR to wholesalers more than doubled in the quarter.",
+        "quote": "Unit sales to wholesalers more than doubled as our expanded commercial team reached nationwide coverage in August"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "Management says it is more than halfway to its formulary goal.",
+        "quote": "We are now more than halfway to our goal of having LYMPHIR on formulary at 100 priority institutions by calendar year-end."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management expects growing demand and continued sales growth.",
+        "quote": "with growing institutional demand, deeper penetration into academic and community treatment centers, and continued sales growth as LYMPHIR becomes further established in CTCL"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes continued demand, doubled unit sales and expected momentum into fiscal 2027."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1506251-0001213900-26-112478.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1506251/000121390026112478/ea030934501ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1506251/000121390026112478/0001213900-26-112478-index.htm",
+    "saved_at": "2026-10-27T20:25:35+08:00"
+  },
+  {
+    "cik": "726854",
+    "company": "CITY HOLDING CO",
+    "accession": "0000726854-26-000190",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 34.609,
+        "unit": "USD millions",
+        "quote": "Net Income Available to Common Shareholders | $ | 34,609"
+      },
+      "diluted_eps": {
+        "value": 2.43,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per common share | $ | 2.43"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The company reports record quarterly diluted earnings per share.",
+        "quote": "today announced net income of $34.6 million and record quarterly diluted earnings of $2.43 per share for the quarter ended September 30, 2026"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Net interest income rose 3.0% from the second quarter and the margin widened.",
+        "quote": "The Company’s reported net interest margin increased from 3.97% for the second quarter of 2026 to 4.04% for the third quarter of 2026."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "Non-interest expenses rose from a year earlier, mainly on salaries and benefits.",
+        "quote": "Non-interest expenses increased $2.6 million from $38.3 million in the third quarter of 2025 to $40.9 million in the third quarter of 2026."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The release calls the results record, reports a wider margin and stable credit quality, and raises the dividend."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/726854-0000726854-26-000190.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/726854/000072685426000190/chco09-30x2026exhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/726854/000072685426000190/0000726854-26-000190-index.htm",
+    "saved_at": "2026-10-27T20:25:35+08:00"
   }
 ]

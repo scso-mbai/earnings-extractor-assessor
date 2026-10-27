@@ -1,0 +1,415 @@
+Company: CITY HOLDING CO (CIK 726854)
+Accession: 0000726854-26-000190
+Results released: 2026-10-26
+Press release: https://www.sec.gov/Archives/edgar/data/726854/000072685426000190/chco09-30x2026exhibit991.htm
+Filing: https://www.sec.gov/Archives/edgar/data/726854/000072685426000190/0000726854-26-000190-index.htm
+Saved: 2026-10-27T20:25:35+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 chco09-30x2026exhibit991.htm EX-99.1
+NEWS RELEASE
+For Immediate Release
+October 26, 2026
+For Further Information Contact:
+David L. Bumgarner, Senior Executive Vice President and Chief Financial Officer
+(304) 769-1169
+City Holding Company Announces Record Quarterly Results
+Charleston, West Virginia – City Holding Company (“Company” or “City”) (NASDAQ:CHCO), a $6.8 billion bank holding company headquartered in Charleston, West Virginia, today announced net income of $34.6 million and record quarterly diluted earnings of $2.43 per share for the quarter ended September 30, 2026. For the quarter ended September 30, 2026, the Company achieved a return on assets of 2.03% and a return on tangible equity of 20.9%.
+Net Interest Income
+The Company’s net interest income increased approximately $1.8 million, or 3.0%, from $60.8 million during the second quarter of 2026 to $62.6 million during the third quarter of 2026. The Company’s tax equivalent net interest income increased approximately $1.9 million, or 3.0%, from $61.0 million for the second quarter of 2026 to $62.9 million for the third quarter of 2026. This increase was primarily due to an increase in the yield on loans (3 basis points) and an increase in the average balances of loans ($36.1 million) which increased net interest income by $1.1 million and $0.5 million, respectively. In addition, an increase in the yield on investments (5 basis points) and an increase in average investment balances ($20.7 million) increased net interest income by $0.4 million and $0.2 million, respectively. These increases were partially offset by a decrease in the average balances of deposits in depository institutions ($49.0 million) which decreased net interest income by $0.5 million. The Company’s reported net interest margin increased from 3.97% for the second quarter of 2026 to 4.04% for the third quarter of 2026.
+Credit Quality
+The Company’s ratio of nonperforming assets to total loans and other real estate owned remained stable at 0.24%, or $10.6 million, at June 30, 2026 compared to 0.24%, or $10.9 million, at September 30, 2026. Total past due loans decreased modestly from $8.6 million, or 0.19% of total loans outstanding, at June 30, 2026, to $8.3 million, or 0.18% of total loans outstanding, at September 30, 2026.
+As a result of the Company’s quarterly analysis of the adequacy of the allowance for credit losses, the Company recorded a recovery of credit losses of $0.1 million in the third quarter of 2026, compared to a recovery of credit losses of $0.5 million for the comparable period in 2025, and a provision for credit losses of $0.4 million for the second quarter of 2026. The recovery of credit losses in the third quarter of 2026 was primarily related to the upgrade of a commercial real estate loan and a marginal decrease in the historical loss rates for commercial and residential real estate loans during the quarter ended September 30, 2026. These decreases were partially offset by revisions to qualitative adjustment factors and the downgrade of a commercial loan ($0.25 million) during the quarter ended September 30, 2026.
+Non-interest Income
+Non-interest income increased $0.9 million from $20.5 million in the third quarter of 2025 to $21.4 million in the third quarter of 2026. This increase was due to an increase of $0.5 million, or 6.0%, in service charges and an increase of $0.3 million, or 10.5%, in wealth and investment management fee income.
+Non-interest Expenses
+Non-interest expenses increased $2.6 million from $38.3 million in the third quarter of 2025 to $40.9 million in the third quarter of 2026. The increase during the quarter ended September 30, 2026 was largely due to an increase in salaries and employee benefit expenses of $1.1 million due to salary adjustments, increased incentive compensation, and increased health insurance costs. In addition, other expenses increased $0.5 million and advertising expenses increased $0.4 million. For the nine months ended September 30, 2026 non-interest expenses have increased $5.0 million, or 4.4%, to $120.4 million as compared to $115.4 million for the nine months ended September 30, 2025.
+Balance Sheet Trends
+Loans increased $48.4 million (1.1%) from June 30, 2026 to $4.55 billion at September 30, 2026. Commercial and industrial loans increased $20.1 million (4.4%), commercial real estate loans increased $12.9 million (0.7%), residential real estate loans increased $8.8 million (0.5%), and home equity loans increased $8.2 million (3.6%) during the quarter ended September 30, 2026.
+Period-end deposit balances increased $18.0 million from June 30, 2026, to September 30, 2026. Total average depository balances increased $26.5 million (0.5%) from the quarter ended June 30, 2026 to the quarter ended September 30, 2026 to $5.35 billion. Average noninterest-bearing demand balances increased $28.0 million and average savings deposits balances increased $11.0 million. These increases were partially offset by a decrease in average time deposits of $9.5 million.
+Income Tax Expense
+The Company’s effective income tax rate for the third quarter of 2026 was 19.9%, compared to 19.2% for the year ended December 31, 2025, and 19.7% for the quarter ended September 30, 2025.
+Capitalization and Liquidity
+The Company’s loan to deposit ratio was 84.9% and the loan to asset ratio was 67.0% at September 30, 2026. The Company maintained investment securities totaling 21.9% of assets as of the same date. The Company’s deposit mix is weighted heavily toward checking and savings accounts, which fund 60.0% of assets at September 30, 2026. Time deposits funded 19.0% of assets at September 30, 2026, with only 14.6% of time deposits having balances of more than $250,000, reflecting the core retail orientation of the Company.
+City Holding Company is the parent company of City National Bank of West Virginia (“City National”). City National has borrowing facilities with the Federal Reserve Bank and the Federal Home Loan Bank that can be accessed as necessary to fund operations and to provide contingency funding. These borrowing facilities are collateralized by various loans held on City National’s balance sheet. As of September 30, 2026, City National had the capacity to borrow an additional $1.8 billion from these existing borrowing facilities. In addition, approximately $688 million of City National’s investment securities were pledged to collateralize customer repurchase agreements and various deposit accounts,
+leaving approximately $801 million of City National’s investment securities unpledged at September 30, 2026.
+The Company continues to be strongly capitalized with tangible equity of $625 million at September 30, 2026. Due primarily to unrealized security losses during the nine months ended September 30, 2026, the Company’s tangible equity ratio declined from 9.9% at December 31, 2025 to 9.4% at September 30, 2026. However, unrealized security losses are not incorporated into measures of regulatory capital. At September 30, 2026, City National’s Leverage Ratio was 10.2%, its Common Equity Tier I ratio was 15.5%, its Tier I Capital ratio was 15.5%, and its Total Risk-Based Capital ratio was 15.9%. These regulatory capital ratios are significantly above levels required to be considered “well capitalized,” which is the highest possible regulatory designation.
+On September 30, 2026, the Board of Directors of the Company approved a quarterly cash dividend of $1.00 per share, payable October 30, 2026 to shareholders of record as of October 15, 2026. This represents a 15% increase from the $0.87 per share dividend paid on July 31, 2026. At September 30, 2026, City Holding Company had significant resources available to repurchase shares with a cash balance of $74 million and dividends available from City National of approximately $120 million at September 30, 2026.
+City National operates 95 branches across West Virginia, Kentucky, Virginia, and Ohio.
+Forward-Looking Information
+This news release contains certain forward-looking statements that are included pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements express only management’s beliefs regarding future results or events and are subject to inherent uncertainty, risks, and changes in circumstances, many of which are outside of management’s control. Uncertainty, risks, changes in circumstances and other factors could cause the Company’s actual results to differ materially from those projected in the forward-looking statements. Factors that could cause actual results to differ from those discussed in such forward-looking statements include, but are not limited to those set forth in the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2025 under “ITEM 1A Risk Factors” and the following: (1) general economic conditions, especially in the communities and markets in which we conduct our business; (2) credit risk, including risk that negative credit quality trends may lead to a deterioration of asset quality, risk that our allowance for credit losses may not be sufficient to absorb actual losses in our loan portfolio, and risk from concentrations in our loan portfolio; (3) changes in the real estate market, including the value of collateral securing portions of our loan portfolio; (4) changes in the interest rate environment; (5) operational risk, including cybersecurity risk and risk of fraud, data processing system failures, and network breaches; (6) changes in technology and increased competition, including competition from non-bank financial institutions or financial technology companies; (7) changes in consumer preferences, spending and borrowing habits, demand for our products and services, and customers’ performance and creditworthiness; (8) difficulty growing loan and deposit balances; (9) our ability to effectively execute our business plan, including with respect to future acquisitions; (10) changes in regulations, laws, taxes, government policies, monetary policies and accounting policies affecting bank holding companies and their subsidiaries; (11) deterioration in the financial condition of the U.S. banking system may impact the valuations of investments the Company has made in the securities of other financial institutions; (12) regulatory enforcement actions and adverse legal actions; (13) difficulty attracting and retaining key employees; and (14) other economic, competitive, technological, operational, governmental, regulatory, and market factors affecting our operations. Forward-looking statements made herein reflect management's expectations as of the date such statements are made. Such information is provided to assist stockholders and potential investors in understanding current and anticipated financial operations of the Company and is included pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. The Company undertakes no obligation to update any forward-looking statement to reflect events or circumstances that arise after the date such statements are made. Further, the Company is required to evaluate subsequent events through the filing
+of its September 30, 2026 Form 10-Q. The Company will continue to evaluate the impact of any subsequent events on the preliminary September 30, 2026 results and will adjust the amounts if necessary.
+CITY HOLDING COMPANY AND SUBSIDIARIES
+Financial Highlights
+(Unaudited)
+Three Months Ended | Nine Months Ended
+September 30, | June 30, | March 31, | December 31, | September 30, | September 30, | September 30,
+2026 | 2026 | 2026 | 2025 | 2025 | 2026 | 2025
+Earnings
+Net Interest Income (fully taxable equivalent) | $ | 62,870 | $ | 61,034 | $ | 59,890 | $ | 60,825 | $ | 61,294 | $ | 183,794 | $ | 176,416
+Net Income available to common shareholders | 34,609 | 33,298 | 31,735 | 31,568 | 35,188 | 99,642 | 98,917
+Per Share Data
+Earnings per share available to common shareholders:
+Basic | $ | 2.44 | $ | 2.35 | $ | 2.20 | $ | 2.18 | $ | 2.41 | $ | 6.99 | $ | 6.76
+Diluted | 2.43 | 2.35 | 2.20 | 2.18 | 2.41 | 6.98 | 6.75
+Weighted average number of shares (in thousands):
+Basic | 14,027 | 14,046 | 14,270 | 14,359 | 14,457 | 14,109 | 14,512
+Diluted | 14,049 | 14,062 | 14,274 | 14,366 | 14,463 | 14,128 | 14,521
+Period-end number of shares (in thousands) | 14,076 | 14,052 | 14,111 | 14,354 | 14,495 | 14,076 | 14,495
+Cash dividends declared | $ | 1.00 | $ | 0.87 | $ | 0.87 | $ | 0.87 | $ | 0.87 | $ | 2.74 | $ | 2.45
+Book value per share (period-end) | 55.53 | 57.57 | 56.29 | 56.41 | 55.12 | 55.53 | 55.12
+Tangible book value per share (period-end) | 44.42 | 46.40 | 45.14 | 45.41 | 44.19 | 44.42 | 44.19
+Market data:
+High closing price | $ | 147.98 | $ | 134.02 | $ | 127.84 | $ | 126.71 | $ | 133.58 | $ | 147.98 | $ | 133.58
+Low closing price | 130.95 | 120.48 | 116.62 | 117.04 | 118.89 | 116.62 | 108.93
+Period-end closing price | 139.12 | 132.64 | 119.52 | 119.20 | 123.87 | 139.12 | 123.87
+Average daily volume (in thousands) | 124 | 116 | 111 | 90 | 112 | 117 | 84
+Treasury share activity:
+Treasury shares repurchased (in thousands) | — | 59 | 262 | 141 | — | 321 | 255
+Average treasury share repurchase price | $ | — | $ | 122.46 | $ | 117.79 | $ | 119.12 | $ | — | $ | 118.65 | $ | 113.09
+Key Ratios (percent)
+Return on average assets | 2.03 | % | 1.98 | % | 1.92 | % | 1.86 | % | 2.11 | % | 1.98 | % | 2.01 | %
+Return on average tangible equity | 20.9 | % | 20.7 | % | 19.3 | % | 19.2 | % | 22.5 | % | 20.3 | % | 22.0 | %
+Yield on interest earning assets | 5.29 | % | 5.24 | % | 5.24 | % | 5.29 | % | 5.43 | % | 5.26 | % | 5.38 | %
+Cost of interest bearing liabilities | 1.73 | % | 1.75 | % | 1.76 | % | 1.87 | % | 1.91 | % | 1.75 | % | 1.96 | %
+Net Interest Margin | 4.04 | % | 3.97 | % | 3.97 | % | 3.94 | % | 4.04 | % | 4.00 | % | 3.95 | %
+Non-interest income as a percent of total revenue | 25.4 | % | 25.4 | % | 24.8 | % | 24.9 | % | 24.7 | % | 25.4 | % | 25.1 | %
+Efficiency Ratio | 48.0 | % | 48.1 | % | 48.9 | % | 48.2 | % | 46.0 | % | 48.4 | % | 48.3 | %
+Price/Earnings Ratio (a) | 14.28 | 14.09 | 13.56 | 13.68 | 12.84 | 14.92 | 13.75
+Capital (period-end)
+Average Shareholders' Equity to Average Assets | 12.03 | % | 11.87 | % | 12.32 | % | 12.04 | % | 11.81 | %
+Tangible equity to tangible assets | 9.43 | % | 9.85 | % | 9.65 | % | 9.93 | % | 9.84 | %
+Consolidated City Holding Company risk based capital ratios (b):
+CET I | 17.14 | % | 17.06 | % | 16.87 | % | 16.94 | % | 17.19 | %
+Tier I | 17.14 | % | 17.06 | % | 16.87 | % | 16.94 | % | 17.19 | %
+Total | 17.60 | % | 17.53 | % | 17.33 | % | 17.40 | % | 17.66 | %
+Leverage | 11.26 | % | 10.97 | % | 10.86 | % | 10.96 | % | 11.06 | %
+City National Bank risk based capital ratios (b):
+CET I | 15.47 | % | 15.01 | % | 14.35 | % | 13.42 | % | 15.83 | %
+Tier I | 15.47 | % | 15.01 | % | 14.35 | % | 13.42 | % | 15.83 | %
+Total | 15.93 | % | 15.48 | % | 14.81 | % | 13.88 | % | 16.30 | %
+Leverage | 10.16 | % | 9.65 | % | 9.23 | % | 8.68 | % | 10.18 | %
+Other (period-end)
+Branches | 95 | 95 | 96 | 96 | 96
+FTE | 926 | 924 | 928 | 934 | 934
+Assets per FTE (in thousands) | $ | 7,332 | $ | 7,333 | $ | 7,284 | $ | 7,201 | $ | 7,138
+Deposits per FTE (in thousands) | 5,789 | 5,781 | 5,757 | 5,679 | 5,629
+(a) The price/earnings ratio is computed based on annualized quarterly earnings.
+(b) September 30, 2026 risk-based capital ratios are estimated.
+CITY HOLDING COMPANY AND SUBSIDIARIES
+Consolidated Statements of Income
+(Unaudited) ($ in 000s, except per share data)
+Three Months Ended | Nine Months Ended
+September 30, | June 30, | March 31, | December 31, | September 30, | September 30, | September 30,
+2026 | 2026 | 2026 | 2025 | 2025 | 2026 | 2025
+Interest Income
+Interest and fees on loans | $ | 66,155 | $ | 64,584 | $ | 63,671 | $ | 64,376 | $ | 64,606 | $ | 194,410 | $ | 188,111
+Interest on investment securities:
+Taxable | 13,516 | 12,920 | 13,129 | 14,657 | 15,947 | 39,565 | 45,239
+Tax-exempt | 1,005 | 1,031 | 1,027 | 1,014 | 708 | 3,063 | 2,144
+Interest on deposits in depository institutions | 1,241 | 1,676 | 942 | 1,400 | 829 | 3,859 | 4,275
+Total Interest Income | 81,917 | 80,211 | 78,769 | 81,447 | 82,090 | 240,897 | 239,769
+Interest Expense
+Interest on deposits | 14,993 | 14,924 | 14,756 | 15,811 | 16,201 | 44,673 | 49,545
+Interest on customer repurchase agreements | 2,734 | 2,959 | 2,844 | 3,493 | 3,196 | 8,537 | 9,672
+Interest on FHLB advances | 1,585 | 1,569 | 1,552 | 1,586 | 1,586 | 4,706 | 4,706
+Total Interest Expense | 19,312 | 19,452 | 19,152 | 20,890 | 20,983 | 57,916 | 63,923
+Net Interest Income | 62,605 | 60,759 | 59,617 | 60,557 | 61,107 | 182,981 | 175,846
+(Recovery of) provision for credit losses | (108) | 436 | 613 | 1,117 | (528) | 941 | (2,315)
+Net Interest Income After (Recovery of) Provision for Credit Losses | 62,713 | 60,323 | 59,004 | 59,440 | 61,635 | 182,040 | 178,161
+Non-Interest Income
+Net gains on sale of investment securities | — | — | — | — | 37 | — | 187
+Unrealized gains (losses) recognized on securities still held | 78 | 58 | 7 | (416) | 96 | 143 | (172)
+Service charges | 8,715 | 7,947 | 7,761 | 8,057 | 8,221 | 24,423 | 23,284
+Bankcard revenue | 7,425 | 7,548 | 6,889 | 7,291 | 7,324 | 21,862 | 21,364
+Wealth and investment management fee income | 3,398 | 3,451 | 3,317 | 3,352 | 3,075 | 10,166 | 8,993
+Bank owned life insurance | 969 | 886 | 979 | 864 | 919 | 2,834 | 3,014
+Other income | 846 | 874 | 1,047 | 834 | 851 | 2,767 | 2,474
+Total Non-Interest Income | 21,431 | 20,764 | 20,000 | 19,982 | 20,523 | 62,195 | 59,144
+Non-Interest Expense
+Salaries and employee benefits | 20,920 | 20,455 | 20,183 | 20,198 | 19,779 | 61,558 | 58,968
+Occupancy related expense | 2,530 | 2,428 | 2,632 | 2,316 | 2,340 | 7,590 | 7,238
+Equipment and software related expense | 3,620 | 3,746 | 3,665 | 3,812 | 3,618 | 11,031 | 10,642
+Bankcard expenses | 2,380 | 2,147 | 2,118 | 2,376 | 2,191 | 6,645 | 6,609
+Other tax-related matters | 2,313 | 2,438 | 2,681 | 2,312 | 2,104 | 7,432 | 6,693
+Advertising | 1,070 | 1,016 | 884 | 577 | 668 | 2,970 | 2,505
+FDIC insurance expense | 777 | 772 | 805 | 756 | 761 | 2,354 | 2,293
+Legal and professional fees | 538 | 612 | 553 | 552 | 549 | 1,703 | 1,782
+Other expenses | 6,769 | 6,153 | 6,221 | 6,982 | 6,302 | 19,143 | 18,651
+Total Non-Interest Expense | 40,917 | 39,767 | 39,742 | 39,881 | 38,312 | 120,426 | 115,381
+Income Before Income Taxes | 43,227 | 41,320 | 39,262 | 39,541 | 43,846 | 123,809 | 121,924
+Income tax expense | 8,618 | 8,022 | 7,527 | 7,973 | 8,658 | 24,167 | 23,007
+Net Income Available to Common Shareholders | $ | 34,609 | $ | 33,298 | $ | 31,735 | $ | 31,568 | $ | 35,188 | $ | 99,642 | $ | 98,917
+Distributed earnings allocated to common shareholders | $ | 13,938 | $ | 12,125 | $ | 12,166 | $ | 12,372 | $ | 12,495 | $ | 38,188 | $ | 35,186
+Undistributed earnings allocated to common shareholders | 20,224 | 20,931 | 19,284 | 18,903 | 22,370 | 60,480 | 62,867
+Net earnings allocated to common shareholders | $ | 34,162 | $ | 33,056 | $ | 31,450 | $ | 31,275 | $ | 34,865 | $ | 98,668 | $ | 98,053
+Average common shares outstanding | 14,027 | 14,046 | 14,270 | 14,359 | 14,457 | 14,109 | 14,512
+Shares for diluted earnings per share | 14,049 | 14,062 | 14,274 | 14,366 | 14,463 | 14,128 | 14,521
+Basic earnings per common share | $ | 2.44 | $ | 2.35 | $ | 2.20 | $ | 2.18 | $ | 2.41 | $ | 6.99 | $ | 6.76
+Diluted earnings per common share | $ | 2.43 | $ | 2.35 | $ | 2.20 | $ | 2.18 | $ | 2.41 | $ | 6.98 | $ | 6.75
+CITY HOLDING COMPANY AND SUBSIDIARIES
+Consolidated Balance Sheets
+($ in 000s)
+(Unaudited) | (Unaudited) | (Unaudited) | (Unaudited)
+September 30, | June 30, | March 31, | December 31, | September 30,
+2026 | 2026 | 2026 | 2025 | 2025
+Assets
+Cash and due from banks | $ | 128,273 | $ | 141,519 | $ | 135,816 | $ | 152,111 | $ | 129,665
+Interest-bearing deposits in depository institutions | 73,106 | 125,683 | 163,201 | 39,808 | 95,929
+Cash and cash equivalents | 201,379 | 267,202 | 299,017 | 191,919 | 225,594
+Investment securities available-for-sale, at fair value | 1,459,623 | 1,476,725 | 1,441,098 | 1,503,358 | 1,510,772
+Other securities | 29,845 | 29,755 | 29,462 | 29,474 | 29,878
+Total investment securities | 1,489,468 | 1,506,480 | 1,470,560 | 1,532,832 | 1,540,650
+Gross loans | 4,550,140 | 4,501,774 | 4,491,592 | 4,503,331 | 4,408,230
+Allowance for credit losses | (19,624) | (19,839) | (19,195) | (19,329) | (19,057)
+Net loans | 4,530,516 | 4,481,935 | 4,472,397 | 4,484,002 | 4,389,173
+Bank owned life insurance | 126,829 | 125,860 | 124,976 | 124,370 | 123,506
+Premises and equipment, net | 67,046 | 67,190 | 68,740 | 69,133 | 69,539
+Accrued interest receivable | 22,955 | 21,300 | 21,645 | 20,718 | 21,890
+Deferred tax assets, net | 46,891 | 31,603 | 31,652 | 30,005 | 32,159
+Goodwill and other intangible assets, net | 156,407 | 156,895 | 157,383 | 157,871 | 158,414
+Other assets | 144,760 | 115,530 | 113,899 | 111,168 | 106,707
+Total Assets | $ | 6,786,251 | $ | 6,773,995 | $ | 6,760,269 | $ | 6,722,018 | $ | 6,667,632
+Deposits:
+Noninterest-bearing | $ | 1,455,426 | $ | 1,421,693 | $ | 1,410,861 | $ | 1,413,621 | $ | 1,377,313
+Interest-bearing:
+Demand deposits | 1,322,389 | 1,321,556 | 1,345,723 | 1,339,435 | 1,338,872
+Savings deposits | 1,294,202 | 1,288,260 | 1,276,884 | 1,244,571 | 1,238,832
+Time deposits | 1,286,123 | 1,308,641 | 1,310,136 | 1,303,361 | 1,302,575
+Total deposits | 5,358,140 | 5,340,150 | 5,343,604 | 5,300,988 | 5,257,592
+Customer repurchase agreements | 367,385 | 377,551 | 374,825 | 367,674 | 369,012
+FHLB advances | 150,000 | 150,000 | 150,000 | 150,000 | 150,000
+Other liabilities | 129,112 | 97,345 | 97,450 | 93,676 | 92,085
+Total Liabilities | $ | 6,004,637 | $ | 5,965,046 | $ | 5,965,879 | $ | 5,912,338 | $ | 5,868,689
+Stockholders' Equity
+Preferred stock | — | — | — | — | —
+Common stock | 47,619 | 47,619 | 47,619 | 47,619 | 47,619
+Capital surplus | 172,904 | 174,805 | 173,130 | 174,598 | 173,733
+Retained earnings | 995,956 | 975,454 | 954,407 | 935,046 | 915,971
+Treasury stock | (303,830) | (306,813) | (299,503) | (270,967) | (254,153)
+Accumulated other comprehensive loss:
+Unrealized loss on securities available-for-sale | (130,649) | (81,241) | (80,388) | (75,741) | (82,785)
+Underfunded pension liability | (386) | (875) | (875) | (875) | (1,442)
+Total Accumulated Other Comprehensive Loss | (131,035) | (82,116) | (81,263) | (76,616) | (84,227)
+Total Stockholders' Equity | 781,614 | 808,949 | 794,390 | 809,680 | 798,943
+Total Liabilities and Stockholders' Equity | $ | 6,786,251 | $ | 6,773,995 | $ | 6,760,269 | $ | 6,722,018 | $ | 6,667,632
+Regulatory Capital
+Total CET 1 capital | $ | 758,756 | $ | 736,703 | $ | 720,535 | $ | 730,453 | $ | 726,739
+Total tier 1 capital | 758,756 | 736,703 | 720,535 | 730,453 | 726,739
+Total risk-based capital | 779,017 | 757,074 | 740,252 | 750,319 | 746,422
+Total risk-weighted assets | 4,426,072 | 4,318,183 | 4,270,400 | 4,312,112 | 4,226,712
+CITY HOLDING COMPANY AND SUBSIDIARIES
+Loan Portfolio
+(Unaudited) ($ in 000s)
+September 30, | June 30, | March 31, | December 31, | September 30,
+2026 | 2026 | 2026 | 2025 | 2025
+Commercial and industrial | $ | 474,251 | $ | 454,122 | $ | 441,617 | $ | 453,975 | $ | 426,654
+1-4 Family | 226,367 | 223,301 | 221,165 | 210,232 | 204,280
+Hotels | 403,794 | 396,079 | 395,857 | 398,608 | 397,338
+Multi-family | 230,172 | 231,946 | 227,687 | 237,424 | 233,678
+Non Residential Non-Owner Occupied | 772,072 | 765,358 | 772,778 | 767,580 | 728,625
+Non Residential Owner Occupied | 250,683 | 253,471 | 251,382 | 253,398 | 239,058
+Commercial real estate (1) | 1,883,088 | 1,870,155 | 1,868,869 | 1,867,242 | 1,802,979
+Residential real estate (2) | 1,915,322 | 1,906,534 | 1,913,389 | 1,910,060 | 1,909,791
+Home equity | 239,264 | 231,057 | 224,723 | 224,701 | 218,750
+Consumer | 38,215 | 39,906 | 42,994 | 47,353 | 50,056
+Gross Loans | $ | 4,550,140 | $ | 4,501,774 | $ | 4,491,592 | $ | 4,503,331 | $ | 4,408,230
+Construction loans included in:
+(1) - Commercial real estate loans | $ | 46,948 | $ | 43,363 | $ | 39,519 | $ | 35,781 | $ | 31,892
+(2) - Residential real estate loans | 12,753 | 11,144 | 9,612 | 9,907 | 6,785
+CITY HOLDING COMPANY AND SUBSIDIARIES
+Asset Quality Information
+(Unaudited) ($ in 000s)
+Three Months Ended | Nine Months Ended
+September 30, | June 30, | March 31, | December 31, | September 30, | September 30, | September 30,
+2026 | 2026 | 2026 | 2025 | 2025 | 2026 | 2025
+Allowance for Loan Losses
+Balance at beginning of period | $ | 19,839 | $ | 19,195 | $ | 19,329 | $ | 19,057 | $ | 19,101 | $ | 19,329 | $ | 21,133
+Charge-offs:
+Commercial and industrial | (2) | (115) | (4) | — | (7) | (121) | (37)
+Commercial real estate | — | (1) | (856) | (27) | (2) | (857) | (222)
+Residential real estate | (186) | (147) | (134) | (181) | (160) | (467) | (209)
+Home equity | (74) | (46) | (62) | (102) | (55) | (182) | (153)
+Consumer | (34) | (97) | (71) | (36) | (9) | (202) | (174)
+Total charge-offs | (296) | (406) | (1,127) | (346) | (233) | (1,829) | (795)
+Recoveries:
+Commercial and industrial | 5 | 70 | 5 | (347) | 400 | 80 | 452
+Commercial real estate | 6 | 443 | 235 | (144) | 202 | 684 | 283
+Residential real estate | 103 | 9 | 30 | (29) | 35 | 142 | 85
+Home equity | 26 | 72 | 90 | 17 | 64 | 188 | 164
+Consumer | 49 | 20 | 20 | 4 | 16 | 89 | 50
+Total recoveries | 189 | 614 | 380 | (499) | 717 | 1,183 | 1,034
+Net (charge-offs) recoveries | (107) | 208 | (747) | (845) | 484 | (646) | 239
+(Recovery of) provision for credit losses | (108) | 436 | 613 | 1,117 | (528) | 941 | (2,315)
+Balance at end of period | $ | 19,624 | $ | 19,839 | $ | 19,195 | $ | 19,329 | $ | 19,057 | $ | 19,624 | $ | 19,057
+Loans outstanding | $ | 4,550,140 | $ | 4,501,774 | $ | 4,491,592 | $ | 4,503,331 | $ | 4,408,230
+Allowance as a percent of loans outstanding | 0.43 | % | 0.44 | % | 0.43 | % | 0.43 | % | 0.43 | %
+Allowance as a percent of non-performing loans | 183.2 | % | 196.4 | % | 167.1 | % | 138.9 | % | 138.2 | %
+Average loans outstanding | $ | 4,533,120 | $ | 4,497,044 | $ | 4,491,591 | $ | 4,431,079 | $ | 4,373,773 | $ | 4,507,404 | $ | 4,322,888
+Net charge-offs (recoveries) (annualized) as a percent of average loans outstanding | 0.01 | % | (0.02) | % | 0.07 | % | 0.08 | % | (0.04) | % | 0.02 | % | (0.01) | %
+CITY HOLDING COMPANY AND SUBSIDIARIES
+Asset Quality Information, Continued
+(Unaudited) ($ in 000s)
+September 30, | June 30, | March 31, | December 31, | September 30,
+2026 | 2026 | 2026 | 2025 | 2025
+Nonaccrual Loans
+Residential real estate | $ | 2,866 | $ | 3,186 | $ | 4,274 | $ | 4,497 | $ | 2,624
+Home equity | 250 | 132 | 313 | 308 | 498
+Commercial and industrial | 625 | 377 | 431 | 557 | 555
+Commercial real estate | 6,840 | 6,322 | 6,403 | 8,448 | 9,169
+Consumer | — | — | 2 | — | —
+Total nonaccrual loans | 10,581 | 10,017 | 11,423 | 13,810 | 12,846
+Accruing loans past due 90 days or more | 132 | 82 | 64 | 109 | 946
+Total non-performing loans | 10,713 | 10,099 | 11,487 | 13,919 | 13,792
+Other real estate owned | 180 | 495 | 693 | 482 | 485
+Total Non-Performing Assets | $ | 10,893 | $ | 10,594 | $ | 12,180 | $ | 14,401 | $ | 14,277
+Non-performing assets as a percent of loans and other real estate owned | 0.24 | % | 0.24 | % | 0.27 | % | 0.32 | % | 0.32 | %
+Past Due Loans
+Residential real estate | $ | 6,807 | $ | 7,282 | $ | 6,440 | $ | 6,461 | $ | 5,635
+Home equity | 643 | 711 | 840 | 772 | 651
+Commercial and industrial | 104 | — | 273 | 279 | 140
+Commercial real estate | 557 | 532 | 670 | 291 | 1,314
+Consumer | 181 | 119 | 267 | 308 | 221
+Total Past Due Loans | $ | 8,292 | $ | 8,644 | $ | 8,490 | $ | 8,111 | $ | 7,961
+Total past due loans as a percent of loans outstanding | 0.18 | % | 0.19 | % | 0.19 | % | 0.18 | % | 0.18 | %
+CITY HOLDING COMPANY AND SUBSIDIARIES
+Consolidated Average Balance Sheets, Yields, and Rates
+(Unaudited) ($ in 000s)
+Three Months Ended
+September 30, 2026 | June 30, 2026 | September 30, 2025
+Average | Yield/ | Average | Yield/ | Average | Yield/
+Balance | Interest | Rate | Balance | Interest | Rate | Balance | Interest | Rate
+Assets:
+Loan portfolio (1):
+Residential real estate (2) | $ | 2,152,553 | $ | 29,290 | 5.40 | % | $ | 2,138,621 | $ | 28,665 | 5.38 | % | $ | 2,106,823 | $ | 28,235 | 5.32 | %
+Commercial, financial, and agriculture (2) | 2,341,437 | 36,047 | 6.11 | % | 2,316,904 | 35,138 | 6.08 | % | 2,215,319 | 35,443 | 6.35 | %
+Installment loans to individuals (2) | 39,130 | 818 | 8.29 | % | 41,519 | 781 | 7.54 | % | 51,631 | 928 | 7.13 | %
+Total loans | 4,533,120 | 66,155 | 5.79 | % | 4,497,044 | 64,584 | 5.76 | % | 4,373,773 | 64,606 | 5.86 | %
+Securities:
+Taxable | 1,350,579 | 13,516 | 3.97 | % | 1,325,318 | 12,920 | 3.91 | % | 1,435,540 | 15,947 | 4.41 | %
+Tax-exempt (3) | 152,428 | 1,272 | 3.31 | % | 157,007 | 1,305 | 3.33 | % | 127,878 | 895 | 2.78 | %
+Total securities | 1,503,007 | 14,788 | 3.90 | % | 1,482,325 | 14,225 | 3.85 | % | 1,563,418 | 16,842 | 4.27 | %
+Deposits in depository institutions | 132,416 | 1,241 | 3.72 | % | 181,432 | 1,676 | 3.71 | % | 74,918 | 829 | 4.39 | %
+Total interest-earning assets | 6,168,543 | 82,184 | 5.29 | % | 6,160,801 | 80,485 | 5.24 | % | 6,012,109 | 82,277 | 5.43 | %
+Cash and due from banks | 103,504 | 105,656 | 96,097
+Premises and equipment, net | 67,280 | 68,421 | 69,355
+Goodwill and intangible assets, net | 156,594 | 157,083 | 158,619
+Other assets | 297,167 | 289,904 | 286,950
+Less: Allowance for credit losses | (20,076) | (19,797) | (19,497)
+Total Assets | $ | 6,773,012 | $ | 6,762,068 | $ | 6,603,633
+Liabilities:
+Interest-bearing demand deposits | $ | 1,321,170 | $ | 2,958 | 0.89 | % | $ | 1,324,095 | $ | 2,784 | 0.84 | % | $ | 1,329,234 | $ | 3,378 | 1.01 | %
+Savings deposits | 1,293,386 | 2,561 | 0.79 | % | 1,282,409 | 2,456 | 0.77 | % | 1,241,494 | 2,348 | 0.75 | %
+Time deposits (2) | 1,300,452 | 9,476 | 2.89 | % | 1,309,954 | 9,683 | 2.96 | % | 1,295,424 | 10,475 | 3.21 | %
+Customer repurchase agreements | 360,377 | 2,734 | 3.01 | % | 392,974 | 2,959 | 3.02 | % | 343,903 | 3,196 | 3.69 | %
+FHLB advances | 150,000 | 1,585 | 4.19 | % | 150,000 | 1,569 | 4.20 | % | 150,000 | 1,586 | 4.19 | %
+Total interest-bearing liabilities | 4,425,385 | 19,314 | 1.73 | % | 4,459,432 | 19,451 | 1.75 | % | 4,360,055 | 20,983 | 1.91 | %
+Noninterest-bearing demand deposits | 1,438,438 | 1,410,471 | 1,374,486
+Other liabilities | 94,127 | 89,801 | 89,456
+Stockholders' equity | 815,062 | 802,364 | 779,636
+Total Liabilities and Stockholders' Equity | $ | 6,773,012 | $ | 6,762,068 | $ | 6,603,633
+Net Interest Income | $ | 62,870 | $ | 61,034 | $ | 61,294
+Net Yield on Earning Assets | 4.04 | % | 3.97 | % | 4.04 | %
+(1) For purposes of this table, non-accruing loans have been included in average balances and the following amounts (in thousands) of net loan fees have been included in interest income:
+Loan fees, net | $ | (78) | $ | (106) | $ | 39
+(2) Included in the above table are the following amounts (in thousands) for the accretion of the fair value adjustments related to the Company's acquisitions:
+Residential real estate | $ | 65 | $ | 46 | $ | 166
+Commercial, financial, and agriculture | 435 | 529 | $ | 535
+Installment loans to individuals | 3 | 1 | $ | 2
+Time deposits | 2 | 2 | $ | 3
+Total | $ | 505 | $ | 578 | $ | 706
+(3) Computed on a fully federal tax-equivalent basis assuming a tax rate of approximately 21%.
+CITY HOLDING COMPANY AND SUBSIDIARIES
+Consolidated Average Balance Sheets, Yields, and Rates
+(Unaudited) ($ in 000s)
+Nine Months Ended
+September 30, 2026 | September 30, 2025
+Average | Yield/ | Average | Yield/
+Balance | Interest | Rate | Balance | Interest | Rate
+Assets:
+Loan portfolio (1):
+Residential real estate (2) | $ | 2,145,391 | $ | 86,264 | 5.38 | % | $ | 2,068,502 | $ | 81,373 | 5.26 | %
+Commercial, financial, and agriculture (2) | 2,320,141 | 105,742 | 6.09 | % | 2,200,471 | 103,959 | 6.32 | %
+Installment loans to individuals (2) | 41,872 | 2,404 | 7.68 | % | 53,915 | 2,779 | 6.89 | %
+Total loans | 4,507,404 | 194,410 | 5.77 | % | 4,322,888 | 188,111 | 5.82 | %
+Securities:
+Taxable | 1,344,555 | 39,565 | 3.93 | % | 1,390,756 | 45,239 | 4.35 | %
+Tax-exempt (3) | 156,398 | 3,877 | 3.31 | % | 130,179 | 2,714 | 2.79 | %
+Total securities | 1,500,953 | 43,442 | 3.87 | % | 1,520,935 | 47,953 | 4.22 | %
+Deposits in depository institutions | 139,173 | 3,859 | 3.71 | % | 128,556 | 4,275 | 4.45 | %
+Total interest-earning assets | 6,147,530 | 241,711 | 5.26 | % | 5,972,379 | 240,339 | 5.38 | %
+Cash and due from banks | 101,874 | 96,370
+Premises and equipment, net | 68,206 | 69,721
+Goodwill and intangible assets, net | 157,094 | 159,162
+Other assets | 290,526 | 294,930
+Less: Allowance for credit losses | (20,232) | (20,805)
+Total Assets | $ | 6,744,998 | $ | 6,571,757
+Liabilities:
+Interest-bearing demand deposits | $ | 1,323,899 | $ | 8,516 | 0.86 | % | $ | 1,336,129 | $ | 10,007 | 1.00 | %
+Savings deposits | 1,276,586 | 7,359 | 0.77 | % | 1,242,141 | 6,921 | 0.74 | %
+Time deposits (2) | 1,305,854 | 28,799 | 2.95 | % | 1,281,575 | 32,616 | 3.40 | %
+Customer repurchase agreements | 373,915 | 8,537 | 3.05 | % | 345,735 | 9,672 | 3.74 | %
+FHLB advances | 150,000 | 4,706 | 4.19 | % | 150,000 | 4,707 | 4.20 | %
+Total interest-bearing liabilities | 4,430,254 | 57,917 | 1.75 | % | 4,355,580 | 63,923 | 1.96 | %
+Noninterest-bearing demand deposits | 1,409,895 | 1,358,250
+Other liabilities | 90,661 | 97,024
+Stockholders' equity | 814,188 | 760,903
+Total Liabilities and Stockholders' Equity | $ | 6,744,998 | $ | 6,571,757
+Net Interest Income | $ | 183,794 | $ | 176,416
+Net Yield on Earning Assets | 4.00 | % | 3.95 | %
+(1) For purposes of this table, non-accruing loans have been included in average balances and the following amounts (in thousands) of net loan fees have been included in interest income:
+Loan fees, net | $ | (131) | $ | 246
+(2) Included in the above table are the following amounts (in thousands) for the accretion of the fair value adjustments related to the Company's acquisitions:
+Residential real estate | $ | 176 | $ | 245
+Commercial, financial, and agriculture | 1,403 | 1,741
+Installment loans to individuals | 7 | 6
+Time deposits | 6 | 13
+$ | 1,592 | $ | 2,005
+(3) Computed on a fully federal tax-equivalent basis assuming a tax rate of approximately 21%.
+CITY HOLDING COMPANY AND SUBSIDIARIES
+Non-GAAP Reconciliations
+(Unaudited) ($ in 000s, except per share data)
+Three Months Ended | Nine Months Ended
+September 30, | June 30, | March 31, | December 31, | September 30, | September 30, | September 30,
+2026 | 2026 | 2026 | 2025 | 2025 | 2026 | 2025
+Net Interest Income/Margin
+Net interest income ("GAAP") | $ | 62,605 | $ | 60,759 | $ | 59,617 | $ | 60,557 | $ | 61,107 | $ | 182,981 | $ | 175,846
+Taxable equivalent adjustment | 265 | 275 | 273 | 268 | 187 | 813 | 570
+Net interest income, fully taxable equivalent | $ | 62,870 | $ | 61,034 | $ | 59,890 | $ | 60,825 | $ | 61,294 | $ | 183,794 | $ | 176,416
+Tangible Equity Ratio (period-end)
+Equity to assets ("GAAP") | 11.52 | % | 11.94 | % | 11.75 | % | 12.04 | % | 11.98 | %
+Effect of goodwill and other intangibles, net | (2.09) | (2.09) | (2.10) | (2.11) | (2.14)
+Tangible common equity to tangible assets | 9.43 | % | 9.85 | % | 9.65 | % | 9.93 | % | 9.84 | %
+Commercial Loan Information (period-end)
+Commercial Sector | Total | % of Total Loans | Average DSC | Average LTV
+Natural Gas Extraction | $ | 63,211 | 1.39% | 3.60 | NA
+Natural Gas Distribution | 18,130 | 0.40 | 3.08 | NA
+Masonry Contractors | 18,460 | 0.41 | 1.04 | 100%
+Sheet Metal Work Manufacturing | 26,437 | 0.58 | 1.40 | 68%
+Beer & Ale Merchant Wholesalers | 24,590 | 0.54 | 1.59 | NA
+Gasoline Stations with Convenience Stores | 44,987 | 0.99 | 2.02 | 65%
+Lessors of Residential Buildings & Dwellings | 511,898 | 11.27 | 1.56 | 66%
+1-4 Family | 193,595 | 4.26 | 1.82 | 63%
+Multi-Family | 205,768 | 4.53 | 1.76 | 68%
+Lessors of Nonresidential Buildings | 620,918 | 13.68 | 1.33 | 65%
+Office Buildings | 158,469 | 3.49 | 1.65 | 62%
+Lessors of Mini-Warehouses & Self-Storage Units | 54,735 | 1.21 | 1.44 | 64%
+Assisted Living Facilities | 24,773 | 0.55 | 1.58 | 41%
+Hotels & Motels | 404,188 | 8.90 | 1.75 | 58%
+Average Balance | Median Balance
+Commercial, Financial, and Agriculture Loans | $ | 516 | $ | 107
+Commercial Real Estate Loans | 582 | 137
+CITY HOLDING COMPANY AND SUBSIDIARIES
+Non-GAAP Reconciliations, continued
+(Unaudited) ($ in 000s, except per share data)
+Net Growth in DDA Accounts
+Year | New DDA Accounts | Net Number of New Accounts | Percentage
+2026 | 24,391 | 2,995 | 1.1%
+2025 | 31,427 | 3,548 | 1.3%
+2024 | 32,238 | 4,497 | 1.8%
+2023* | 31,745 | 4,768 | 1.9%
+2022 | 28,442 | 4,544 | 1.9%
+2021 | 32,800 | 8,860 | 3.8%
+2020 | 30,360 | 6,740 | 3.0%
+2019 | 32,040 | 3,717 | 1.7%
+* - amounts exclude accounts added in connection with the acquisition of Citizens Commerce Bancshares, Inc. (2023).
