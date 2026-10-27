@@ -1,74 +1,116 @@
 {
-  "fetched_at": "2026-10-26T07:32:29+08:00",
+  "fetched_at": "2026-10-27T08:24:25+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-10-25",
-    "end": "2026-10-25",
+    "end": "2026-10-26",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 8,
-  "answered": 8,
+  "requests": 14,
+  "answered": 14,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-25",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-26",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 158 ms"
+      "detail": "HTTP 200, 43 KB in 238 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 69 ms"
+      "detail": "HTTP 200, 148 KB in 105 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 111 ms"
+      "detail": "HTTP 200, 156 KB in 48 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 92 ms"
+      "detail": "HTTP 200, 155 KB in 40 ms"
+    },
+    {
+      "name": "Citius Pharmaceuticals, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1506251/000121390026112478/index.json",
+      "ok": true,
+      "detail": "HTTP 200, 1 KB in 116 ms"
+    },
+    {
+      "name": "Citius Pharmaceuticals, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1506251/000121390026112478/ea030934501ex99-1.htm",
+      "ok": true,
+      "detail": "HTTP 200, 15 KB in 53 ms"
+    },
+    {
+      "name": "CITY HOLDING CO filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/726854/000072685426000190/index.json",
+      "ok": true,
+      "detail": "HTTP 200, 1 KB in 52 ms"
+    },
+    {
+      "name": "CITY HOLDING CO press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/726854/000072685426000190/chco09-30x2026exhibit991.htm",
+      "ok": true,
+      "detail": "HTTP 200, 816 KB in 306 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 166 ms"
+      "detail": "HTTP 200, 3,090 KB in 294 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 191 ms"
+      "detail": "HTTP 200, 4,373 KB in 163 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,735 KB in 149 ms"
+      "detail": "HTTP 200, 2,736 KB in 101 ms"
+    },
+    {
+      "name": "Citius Pharmaceuticals, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001506251.json",
+      "ok": true,
+      "detail": "HTTP 200, 1,570 KB in 110 ms"
+    },
+    {
+      "name": "CITY HOLDING CO company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000726854.json",
+      "ok": true,
+      "detail": "HTTP 200, 5,043 KB in 248 ms"
     },
     {
       "name": "OFG BANCORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001030469.json",
       "ok": true,
-      "detail": "HTTP 200, 5,299 KB in 832 ms"
+      "detail": "HTTP 200, 5,299 KB in 601 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000726854.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001030469.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001506251.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
-    "efts.sec.gov_search-index_from0.json"
+    "efts.sec.gov_search-index_from0.json",
+    "www.sec.gov_Archives_edgar_data_1506251_000121390026112478_ea030934501ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1506251_000121390026112478_index.json",
+    "www.sec.gov_Archives_edgar_data_726854_000072685426000190_chco09-30x2026exhibit991.htm",
+    "www.sec.gov_Archives_edgar_data_726854_000072685426000190_index.json"
   ]
 }
