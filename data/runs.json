@@ -803,5 +803,99 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-10-29T06:38:10+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-10-29-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 0,
+      "total": 3,
+      "failures": [
+        {
+          "name": "OFG BANCORP company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403)"
+        },
+        {
+          "name": "Citius Pharmaceuticals, Inc. company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "CITY HOLDING CO company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        }
+      ]
+    },
+    "counts": {
+      "to_assess": 3,
+      "checked": 3,
+      "rechecks": 3,
+      "confirmed": 0,
+      "mismatch": 0,
+      "cannot_check": 12
+    },
+    "companies": [
+      {
+        "cik": "1030469",
+        "company": "OFG BANCORP",
+        "accession": "0001030469-26-000043",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 3,
+          "S3": 3
+        }
+      },
+      {
+        "cik": "1506251",
+        "company": "Citius Pharmaceuticals, Inc.",
+        "accession": "0001213900-26-112478",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 3
+        }
+      },
+      {
+        "cik": "726854",
+        "company": "CITY HOLDING CO",
+        "accession": "0000726854-26-000190",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 4,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 3 extractions: 0 figures confirmed, 0 mismatches, 12 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-10-29T06:10:42+08:00",
+      "watch_brief": "briefs/2026-10-29-watch.md",
+      "brief_says": null,
+      "saved_for_run": 0,
+      "match": null
+    },
+    "offline": false
   }
 ]
