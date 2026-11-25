@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T12:08:52+08:00",
+  "fetched_at": "2026-11-25T12:35:40+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -9,172 +9,166 @@
     "note": "The last radar run was more than 14 days ago, so the radar looked back 14 days only."
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 26,
-  "answered": 26,
+  "requests": 25,
+  "answered": 25,
   "sources": [
     {
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 72 ms"
+      "detail": "HTTP 200, 60 KB in 542 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 473 ms"
+      "detail": "HTTP 200, 60 KB in 506 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 52 ms"
+      "detail": "HTTP 200, 60 KB in 565 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=300",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 22 ms"
+      "detail": "HTTP 200, 60 KB in 276 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=400",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 51 ms"
+      "detail": "HTTP 200, 59 KB in 345 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=500",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 18 ms"
+      "detail": "HTTP 200, 60 KB in 393 ms"
     },
     {
       "name": "Earnings radar, page 7",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=600",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 19 ms"
+      "detail": "HTTP 200, 60 KB in 535 ms"
     },
     {
       "name": "Earnings radar, page 8",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=700",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 24 ms"
+      "detail": "HTTP 200, 60 KB in 399 ms"
     },
     {
       "name": "Earnings radar, page 9",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=800",
       "ok": true,
-      "detail": "HTTP 200, 45 KB in 31 ms"
+      "detail": "HTTP 200, 45 KB in 233 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 58 ms"
+      "detail": "HTTP 200, 149 KB in 183 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 110 ms"
+      "detail": "HTTP 200, 1 KB in 159 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 107 ms"
+      "detail": "HTTP 200, 361 KB in 116 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 158 KB in 15 ms"
+      "detail": "HTTP 200, 158 KB in 65 ms"
     },
     {
       "name": "Amazon filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 66 ms"
+      "detail": "HTTP 200, 1 KB in 79 ms"
     },
     {
       "name": "Amazon press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 657 KB in 99 ms"
+      "detail": "HTTP 200, 657 KB in 143 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 15 ms"
+      "detail": "HTTP 200, 154 KB in 60 ms"
     },
     {
-      "name": "UGI CORP /PA/ filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/index.json",
+      "name": "Alto Neuroscience, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1999480/000199948026000030/index.json",
       "ok": true,
-      "detail": "HTTP 200, 5 KB in 69 ms"
+      "detail": "HTTP 200, 1 KB in 96 ms"
     },
     {
-      "name": "UGI CORP /PA/ press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/ugisept2026ex991.htm",
+      "name": "Alto Neuroscience, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1999480/000199948026000030/exhibit991-earningsrelease.htm",
       "ok": true,
-      "detail": "HTTP 200, 213 KB in 130 ms"
+      "detail": "HTTP 200, 70 KB in 157 ms"
     },
     {
-      "name": "Veritone, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1615165/000161516526000004/index.json",
+      "name": "Inuvo, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/829323/000165495426009773/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 62 ms"
+      "detail": "HTTP 200, 2 KB in 121 ms"
     },
     {
-      "name": "Veritone, Inc. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/1615165/000161516526000004/0001615165-26-000004-index.htm",
+      "name": "Inuvo, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/829323/000165495426009773/inuvo_ex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 69 ms"
-    },
-    {
-      "name": "Veritone, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1615165/000161516526000004/veriearningsreleaseq32026e.htm",
-      "ok": true,
-      "detail": "HTTP 200, 335 KB in 117 ms"
+      "detail": "HTTP 200, 116 KB in 59 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 78 ms"
+      "detail": "HTTP 200, 3,175 KB in 92 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 35 ms"
+      "detail": "HTTP 200, 4,447 KB in 189 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 34 ms"
+      "detail": "HTTP 200, 2,745 KB in 114 ms"
     },
     {
-      "name": "UGI CORP /PA/ company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000884614.json",
+      "name": "Alto Neuroscience, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001999480.json",
       "ok": true,
-      "detail": "HTTP 200, 4,035 KB in 55 ms"
+      "detail": "HTTP 200, 435 KB in 165 ms"
     },
     {
-      "name": "Veritone, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001615165.json",
+      "name": "Inuvo, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000829323.json",
       "ok": true,
-      "detail": "HTTP 200, 1,700 KB in 69 ms"
+      "detail": "HTTP 200, 2,476 KB in 187 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000884614.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000829323.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001615165.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001999480.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -189,12 +183,11 @@
     "efts.sec.gov_search-index_from800.json",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_amzn-20260930xex991.htm",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_index.json",
-    "www.sec.gov_Archives_edgar_data_1615165_000161516526000004_0001615165-26-000004-index.htm",
-    "www.sec.gov_Archives_edgar_data_1615165_000161516526000004_index.json",
-    "www.sec.gov_Archives_edgar_data_1615165_000161516526000004_veriearningsreleaseq32026e.htm",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_googexhibit991q32026.htm",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json",
-    "www.sec.gov_Archives_edgar_data_884614_000088461426000064_index.json",
-    "www.sec.gov_Archives_edgar_data_884614_000088461426000064_ugisept2026ex991.htm"
+    "www.sec.gov_Archives_edgar_data_1999480_000199948026000030_exhibit991-earningsrelease.htm",
+    "www.sec.gov_Archives_edgar_data_1999480_000199948026000030_index.json",
+    "www.sec.gov_Archives_edgar_data_829323_000165495426009773_index.json",
+    "www.sec.gov_Archives_edgar_data_829323_000165495426009773_inuvo_ex991.htm"
   ]
 }
