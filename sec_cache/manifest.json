@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T11:37:10+08:00",
+  "fetched_at": "2026-11-27T11:46:59+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -9,172 +9,166 @@
     "note": "The last radar run was more than 14 days ago, so the radar looked back 14 days only."
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 26,
-  "answered": 26,
+  "requests": 25,
+  "answered": 25,
   "sources": [
     {
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 102 ms"
+      "detail": "HTTP 200, 60 KB in 88 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 54 ms"
+      "detail": "HTTP 200, 60 KB in 33 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 102 ms"
+      "detail": "HTTP 200, 60 KB in 300 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=300",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 115 ms"
+      "detail": "HTTP 200, 59 KB in 74 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=400",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 45 ms"
+      "detail": "HTTP 200, 60 KB in 102 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=500",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 112 ms"
+      "detail": "HTTP 200, 60 KB in 24 ms"
     },
     {
       "name": "Earnings radar, page 7",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=600",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 101 ms"
+      "detail": "HTTP 200, 61 KB in 34 ms"
     },
     {
       "name": "Earnings radar, page 8",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=700",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 54 ms"
+      "detail": "HTTP 200, 10 KB in 42 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 183 ms"
+      "detail": "HTTP 200, 148 KB in 26 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 278 ms"
+      "detail": "HTTP 200, 1 KB in 186 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 161 ms"
+      "detail": "HTTP 200, 361 KB in 134 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 145 ms"
+      "detail": "HTTP 200, 156 KB in 17 ms"
     },
     {
       "name": "Amazon filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 96 ms"
+      "detail": "HTTP 200, 1 KB in 93 ms"
     },
     {
       "name": "Amazon press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 657 KB in 176 ms"
+      "detail": "HTTP 200, 657 KB in 114 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 61 ms"
+      "detail": "HTTP 200, 154 KB in 20 ms"
     },
     {
-      "name": "Fluent, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1460329/000143774926036569/index.json",
+      "name": "HCW Biologics Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1828673/000149315226052053/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 113 ms"
+      "detail": "HTTP 200, 1 KB in 87 ms"
     },
     {
-      "name": "Fluent, Inc. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/1460329/000143774926036569/0001437749-26-036569-index.htm",
+      "name": "HCW Biologics Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1828673/000149315226052053/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 150 ms"
+      "detail": "HTTP 200, 70 KB in 154 ms"
     },
     {
-      "name": "Fluent, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1460329/000143774926036569/ex_1006462.htm",
+      "name": "PLIANT THERAPEUTICS, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1746473/000174647326000127/index.json",
       "ok": true,
-      "detail": "HTTP 200, 442 KB in 168 ms"
+      "detail": "HTTP 200, 1 KB in 103 ms"
     },
     {
-      "name": "CENTRAL GARDEN & PET CO filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/887733/000088773326000024/index.json",
+      "name": "PLIANT THERAPEUTICS, INC. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1746473/000174647326000127/0001746473-26-000127-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 158 ms"
+      "detail": "HTTP 200, 10 KB in 178 ms"
     },
     {
-      "name": "CENTRAL GARDEN & PET CO filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/887733/000088773326000024/0000887733-26-000024-index.htm",
+      "name": "PLIANT THERAPEUTICS, INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1746473/000174647326000127/plrx-20261112xexx991.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 131 ms"
-    },
-    {
-      "name": "CENTRAL GARDEN & PET CO press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/887733/000088773326000024/q42026pressrelease.htm",
-      "ok": true,
-      "detail": "HTTP 200, 559 KB in 103 ms"
+      "detail": "HTTP 200, 95 KB in 232 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 81 ms"
+      "detail": "HTTP 200, 3,175 KB in 42 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 97 ms"
+      "detail": "HTTP 200, 4,447 KB in 25 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 169 ms"
+      "detail": "HTTP 200, 2,745 KB in 36 ms"
     },
     {
-      "name": "Fluent, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001460329.json",
+      "name": "HCW Biologics Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001828673.json",
       "ok": true,
-      "detail": "HTTP 200, 2,289 KB in 198 ms"
+      "detail": "HTTP 200, 774 KB in 368 ms"
     },
     {
-      "name": "CENTRAL GARDEN & PET CO company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000887733.json",
+      "name": "PLIANT THERAPEUTICS, INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001746473.json",
       "ok": true,
-      "detail": "HTTP 200, 3,131 KB in 249 ms"
+      "detail": "HTTP 200, 975 KB in 37 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000887733.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001460329.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001746473.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001828673.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -188,13 +182,12 @@
     "efts.sec.gov_search-index_from700.json",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_amzn-20260930xex991.htm",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_index.json",
-    "www.sec.gov_Archives_edgar_data_1460329_000143774926036569_0001437749-26-036569-index.htm",
-    "www.sec.gov_Archives_edgar_data_1460329_000143774926036569_ex_1006462.htm",
-    "www.sec.gov_Archives_edgar_data_1460329_000143774926036569_index.json",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_googexhibit991q32026.htm",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json",
-    "www.sec.gov_Archives_edgar_data_887733_000088773326000024_0000887733-26-000024-index.htm",
-    "www.sec.gov_Archives_edgar_data_887733_000088773326000024_index.json",
-    "www.sec.gov_Archives_edgar_data_887733_000088773326000024_q42026pressrelease.htm"
+    "www.sec.gov_Archives_edgar_data_1746473_000174647326000127_0001746473-26-000127-index.htm",
+    "www.sec.gov_Archives_edgar_data_1746473_000174647326000127_index.json",
+    "www.sec.gov_Archives_edgar_data_1746473_000174647326000127_plrx-20261112xexx991.htm",
+    "www.sec.gov_Archives_edgar_data_1828673_000149315226052053_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1828673_000149315226052053_index.json"
   ]
 }
